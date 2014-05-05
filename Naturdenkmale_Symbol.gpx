@@ -1,0 +1,4638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  author="Datenquelle: CC-BY-3.0: Land Steiermark - data.steiermark.gv.at"
+  license="http://creativecommons.org/licenses/by/3.0/at/deed.de"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2014-05-05T18:12:33Z</time>
+<bounds minlat="46.621442743" minlon="13.607027615" maxlat="47.768438730" maxlon="16.141435358"/>
+<wpt lat="47.195780677" lon="15.332252372">
+  <name>Buche</name>
+  <cmt>Buche</cmt>
+  <desc>Buche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.459354081" lon="13.631628391">
+  <name>Dachsteins$dabsturz und Edelgrie$gletscher</name>
+  <cmt>Dachsteins$dabsturz und Edelgrie$gletscher</cmt>
+  <desc>Dachsteins$dabsturz und Edelgrie$gletscher</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.467933610" lon="13.607027615">
+  <name>Dachsteins$dwand</name>
+  <cmt>Dachsteins$dwand</cmt>
+  <desc>Dachsteins$dwand</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.680942301" lon="15.998951159">
+  <name>Stieleiche</name>
+  <cmt>Stieleiche</cmt>
+  <desc>Stieleiche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.811138605" lon="15.826147672">
+  <name>Stieleiche</name>
+  <cmt>Stieleiche</cmt>
+  <desc>Stieleiche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.040251910" lon="15.941539951">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.726429775" lon="14.644647620">
+  <name>Laussabach-Kataraktstrecke</name>
+  <cmt>Laussabach-Kataraktstrecke</cmt>
+  <desc>Laussabach-Kataraktstrecke</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.478730051" lon="13.796885121">
+  <name>&apos;Obere und untere Notgasse&apos; und &apos;Riesgasse&apos;</name>
+  <cmt>&apos;Obere und untere Notgasse&apos; und &apos;Riesgasse&apos;</cmt>
+  <desc>&apos;Obere und untere Notgasse&apos; und &apos;Riesgasse&apos;</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.973632380" lon="15.339750231">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.358073279" lon="13.694132771">
+  <name>Untertalbach Wildes Wasser</name>
+  <cmt>Untertalbach Wildes Wasser</cmt>
+  <desc>Untertalbach Wildes Wasser</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.064778730" lon="14.431215444">
+  <name>Baumensemble um Villa</name>
+  <cmt>Baumensemble um Villa</cmt>
+  <desc>Baumensemble um Villa</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.912262715" lon="15.402535710">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.876206628" lon="15.792084593">
+  <name>Kastanienbaum</name>
+  <cmt>Kastanienbaum</cmt>
+  <desc>Kastanienbaum</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.463240406" lon="13.983009216">
+  <name>4 Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>4 Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>4 Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.093847844" lon="14.303243355">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.094175902" lon="14.302912566">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.119269662" lon="14.146064121">
+  <name>Gemeine F$hre (Pinus silvestris)</name>
+  <cmt>Gemeine F$hre (Pinus silvestris)</cmt>
+  <desc>Gemeine F$hre (Pinus silvestris)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.072806690" lon="14.297261419">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.679296240" lon="15.182708088">
+  <name>Gesteinsfalte</name>
+  <cmt>Gesteinsfalte</cmt>
+  <desc>Gesteinsfalte</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.653197465" lon="15.299535325">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.036928302" lon="15.458082974">
+  <name>Blutbuche</name>
+  <cmt>Blutbuche</cmt>
+  <desc>Blutbuche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.066247515" lon="15.432940906">
+  <name>Maulbeerbaum</name>
+  <cmt>Maulbeerbaum</cmt>
+  <desc>Maulbeerbaum</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.077775080" lon="15.456824775">
+  <name>Roteiche (Quercus rubra)</name>
+  <cmt>Roteiche (Quercus rubra)</cmt>
+  <desc>Roteiche (Quercus rubra)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.077360548" lon="15.457158581">
+  <name>Buche</name>
+  <cmt>Buche</cmt>
+  <desc>Buche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.433093329" lon="13.942246508">
+  <name>2 Linden in der Kohlstattsiedlung</name>
+  <cmt>2 Linden in der Kohlstattsiedlung</cmt>
+  <desc>2 Linden in der Kohlstattsiedlung</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.187806871" lon="13.923539005">
+  <name>Zirbelkiefer (Pinus cembra)</name>
+  <cmt>Zirbelkiefer (Pinus cembra)</cmt>
+  <desc>Zirbelkiefer (Pinus cembra)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.191274188" lon="13.992831055">
+  <name>L$rche (Larix decidua)</name>
+  <cmt>L$rche (Larix decidua)</cmt>
+  <desc>L$rche (Larix decidua)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.240939113" lon="15.274415528">
+  <name>Sommerlinde (Tilia platyphyllos) 
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos) 
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos) 
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.025305189" lon="15.551857995">
+  <name>Abendl$ndischer Lebensbaum (Thuja occidentalis)
+</name>
+  <cmt>Abendl$ndischer Lebensbaum (Thuja occidentalis)
+</cmt>
+  <desc>Abendl$ndischer Lebensbaum (Thuja occidentalis)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.025445026" lon="15.552231282">
+  <name>Nordmannstanne (Abies nordmanniana)
+</name>
+  <cmt>Nordmannstanne (Abies nordmanniana)
+</cmt>
+  <desc>Nordmannstanne (Abies nordmanniana)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.025265324" lon="15.552137897">
+  <name>Sapintusfichte (Picea orientalis)
+</name>
+  <cmt>Sapintusfichte (Picea orientalis)
+</cmt>
+  <desc>Sapintusfichte (Picea orientalis)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.528890084" lon="14.337407473">
+  <name>Bergahorn (Acer pseudoplatanus)
+</name>
+  <cmt>Bergahorn (Acer pseudoplatanus)
+</cmt>
+  <desc>Bergahorn (Acer pseudoplatanus)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.234428765" lon="14.781913400">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.231590319" lon="14.782459901">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.707303500" lon="15.144581999">
+  <name>Sommerlinde (Tilia platyphyllos), Doppellinde</name>
+  <cmt>Sommerlinde (Tilia platyphyllos), Doppellinde</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos), Doppellinde</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.564019807" lon="15.357796991">
+  <name>Sommerlinde (Tilia platyphyllos), Hacker-Linde</name>
+  <cmt>Sommerlinde (Tilia platyphyllos), Hacker-Linde</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos), Hacker-Linde</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.365023364" lon="15.338629641">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.359404791" lon="15.346575698">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.217207822" lon="14.818538031">
+  <name>Sommereiche (Quercus robur)
+</name>
+  <cmt>Sommereiche (Quercus robur)
+</cmt>
+  <desc>Sommereiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.269845054" lon="14.686900422">
+  <name>Bergahorn (Acer pseudoplatanus)
+</name>
+  <cmt>Bergahorn (Acer pseudoplatanus)
+</cmt>
+  <desc>Bergahorn (Acer pseudoplatanus)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.438693710" lon="13.715471960">
+  <name>Torbachfall</name>
+  <cmt>Torbachfall</cmt>
+  <desc>Torbachfall</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.351937100" lon="13.920518675">
+  <name>Hopfgartenwasserfall</name>
+  <cmt>Hopfgartenwasserfall</cmt>
+  <desc>Hopfgartenwasserfall</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.269884020" lon="14.687016281">
+  <name>Linde (Tilia sp.)
+</name>
+  <cmt>Linde (Tilia sp.)
+</cmt>
+  <desc>Linde (Tilia sp.)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.074836080" lon="15.391505574">
+  <name>Platane</name>
+  <cmt>Platane</cmt>
+  <desc>Platane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.075113480" lon="15.390949456">
+  <name>Platane</name>
+  <cmt>Platane</cmt>
+  <desc>Platane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.075227837" lon="15.390839062">
+  <name>Platane</name>
+  <cmt>Platane</cmt>
+  <desc>Platane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.074965210" lon="15.390929946">
+  <name>Platane</name>
+  <cmt>Platane</cmt>
+  <desc>Platane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.074869704" lon="15.391004819">
+  <name>Platane</name>
+  <cmt>Platane</cmt>
+  <desc>Platane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.542587743" lon="15.239303091">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.542961162" lon="15.238958411">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.784142447" lon="15.225808894">
+  <name>Pontische Azaleen (Azalea pontica)
+</name>
+  <cmt>Pontische Azaleen (Azalea pontica)
+</cmt>
+  <desc>Pontische Azaleen (Azalea pontica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.784360457" lon="15.225663057">
+  <name>Tulpenbaum (Liriodendron tulpifera)
+</name>
+  <cmt>Tulpenbaum (Liriodendron tulpifera)
+</cmt>
+  <desc>Tulpenbaum (Liriodendron tulpifera)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.752743898" lon="15.118229672">
+  <name>Wasserfall in der Wei$en Sulm</name>
+  <cmt>Wasserfall in der Wei$en Sulm</cmt>
+  <desc>Wasserfall in der Wei$en Sulm</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.827015560" lon="15.211940000">
+  <name>L$rche (Larix decidua)
+</name>
+  <cmt>L$rche (Larix decidua)
+</cmt>
+  <desc>L$rche (Larix decidua)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.127184523" lon="15.419178924">
+  <name>Stieleiche</name>
+  <cmt>Stieleiche</cmt>
+  <desc>Stieleiche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.068221632" lon="15.488979287">
+  <name>Eibe</name>
+  <cmt>Eibe</cmt>
+  <desc>Eibe</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.096025781" lon="15.484634249">
+  <name>Stechpalme</name>
+  <cmt>Stechpalme</cmt>
+  <desc>Stechpalme</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.104312806" lon="15.415832201">
+  <name>Ro$kastanie</name>
+  <cmt>Ro$kastanie</cmt>
+  <desc>Ro$kastanie</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.104336989" lon="15.415598745">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.105193222" lon="15.486887919">
+  <name>Schwarzf$hre</name>
+  <cmt>Schwarzf$hre</cmt>
+  <desc>Schwarzf$hre</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.021720294" lon="15.500608214">
+  <name>Birenbaum (Pyrus sylvestris)</name>
+  <cmt>Birenbaum (Pyrus sylvestris)</cmt>
+  <desc>Birenbaum (Pyrus sylvestris)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.766349055" lon="15.289580441">
+  <name>Eiche (Quersus sp.)</name>
+  <cmt>Eiche (Quersus sp.)</cmt>
+  <desc>Eiche (Quersus sp.)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.356147662" lon="15.698180094">
+  <name>Rotf$hre (Pinus sylvestris)
+</name>
+  <cmt>Rotf$hre (Pinus sylvestris)
+</cmt>
+  <desc>Rotf$hre (Pinus sylvestris)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.292479200" lon="15.492732628">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.369736681" lon="15.760089751">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.214677486" lon="15.614516382">
+  <name>Hainbuche (Carpinus betulus)
+</name>
+  <cmt>Hainbuche (Carpinus betulus)
+</cmt>
+  <desc>Hainbuche (Carpinus betulus)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.286530130" lon="15.561745521">
+  <name>3 Winterlinden (Tilia cordata)
+</name>
+  <cmt>3 Winterlinden (Tilia cordata)
+</cmt>
+  <desc>3 Winterlinden (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.215857999" lon="15.480383815">
+  <name>2 Linden (Tilia sp., ohne n$here Angabe)
+</name>
+  <cmt>2 Linden (Tilia sp., ohne n$here Angabe)
+</cmt>
+  <desc>2 Linden (Tilia sp., ohne n$here Angabe)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.365133109" lon="15.668007291">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.414961425" lon="15.672078082">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.990927215" lon="15.157085626">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.984361265" lon="15.266195806">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.966951423" lon="14.979756557">
+  <name>Rotbuche (Fagus sylvatica)
+</name>
+  <cmt>Rotbuche (Fagus sylvatica)
+</cmt>
+  <desc>Rotbuche (Fagus sylvatica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.071015259" lon="15.080931493">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.124839483" lon="15.028602603">
+  <name>Bergahorn (Acer pseudoplatanus)
+</name>
+  <cmt>Bergahorn (Acer pseudoplatanus)
+</cmt>
+  <desc>Bergahorn (Acer pseudoplatanus)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.124816860" lon="15.028425960">
+  <name>Bergahorn (Acer pseudoplatanus)
+</name>
+  <cmt>Bergahorn (Acer pseudoplatanus)
+</cmt>
+  <desc>Bergahorn (Acer pseudoplatanus)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.923200626" lon="15.384594282">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.067303815" lon="15.366671730">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.142068757" lon="15.355680209">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.081558779" lon="15.313306420">
+  <name>Bildstock mit Efeu (Hedera helix)
+</name>
+  <cmt>Bildstock mit Efeu (Hedera helix)
+</cmt>
+  <desc>Bildstock mit Efeu (Hedera helix)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.128368242" lon="15.241239012">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.195286509" lon="15.334457320">
+  <name>Blutbuche (Fagus sylvatica atropurpurea)</name>
+  <cmt>Blutbuche (Fagus sylvatica atropurpurea)</cmt>
+  <desc>Blutbuche (Fagus sylvatica atropurpurea)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.195267099" lon="15.334284776">
+  <name>Blutbuche (Fagus sylvatica atropurpurea)</name>
+  <cmt>Blutbuche (Fagus sylvatica atropurpurea)</cmt>
+  <desc>Blutbuche (Fagus sylvatica atropurpurea)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.024570679" lon="15.312254683">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.138146939" lon="15.287498488">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.176427809" lon="15.513914544">
+  <name>2 Winterlinden (Tilia cordata)
+</name>
+  <cmt>2 Winterlinden (Tilia cordata)
+</cmt>
+  <desc>2 Winterlinden (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.208310975" lon="15.326176199">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.104147438" lon="15.624631922">
+  <name>Mostbirnbaum (Pyrus sp.)
+</name>
+  <cmt>Mostbirnbaum (Pyrus sp.)
+</cmt>
+  <desc>Mostbirnbaum (Pyrus sp.)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.230125019" lon="15.327105012">
+  <name>Bergulme (Ulmus glabra)
+</name>
+  <cmt>Bergulme (Ulmus glabra)
+</cmt>
+  <desc>Bergulme (Ulmus glabra)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.052890400" lon="16.085877657">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.978103364" lon="14.985451461">
+  <name>Edelkastanie (Castanea sativa)
+</name>
+  <cmt>Edelkastanie (Castanea sativa)
+</cmt>
+  <desc>Edelkastanie (Castanea sativa)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.064007501" lon="15.061963253">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.107948533" lon="14.955884614">
+  <name>Eibe (Taxus baccata)
+</name>
+  <cmt>Eibe (Taxus baccata)
+</cmt>
+  <desc>Eibe (Taxus baccata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.107955843" lon="14.955620251">
+  <name>Eibe (Taxus baccata)
+</name>
+  <cmt>Eibe (Taxus baccata)
+</cmt>
+  <desc>Eibe (Taxus baccata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.064667315" lon="15.084192045">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.104999115" lon="16.048425572">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.192733829" lon="15.329530595">
+  <name>Amerikanische Roteiche (Quercus rubra)
+</name>
+  <cmt>Amerikanische Roteiche (Quercus rubra)
+</cmt>
+  <desc>Amerikanische Roteiche (Quercus rubra)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.192675561" lon="15.329432171">
+  <name>Gingko (Gingko biloba)
+</name>
+  <cmt>Gingko (Gingko biloba)
+</cmt>
+  <desc>Gingko (Gingko biloba)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.421724868" lon="13.916875158">
+  <name>2 Zirben (Pinus cembra)</name>
+  <cmt>2 Zirben (Pinus cembra)</cmt>
+  <desc>2 Zirben (Pinus cembra)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.425474124" lon="13.722351603">
+  <name>Felsengruppe um den Trutstein</name>
+  <cmt>Felsengruppe um den Trutstein</cmt>
+  <desc>Felsengruppe um den Trutstein</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.447526921" lon="13.936085509">
+  <name>Walnu$baum (Juglans regia)</name>
+  <cmt>Walnu$baum (Juglans regia)</cmt>
+  <desc>Walnu$baum (Juglans regia)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.455613540" lon="14.011521171">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.039828666" lon="15.787367033">
+  <name>Birnbaum (Pyrus communis)</name>
+  <cmt>Birnbaum (Pyrus communis)</cmt>
+  <desc>Birnbaum (Pyrus communis)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.922889169" lon="15.995672803">
+  <name>Mammutbaum (Sequoiadendron giganteum)</name>
+  <cmt>Mammutbaum (Sequoiadendron giganteum)</cmt>
+  <desc>Mammutbaum (Sequoiadendron giganteum)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.608464088" lon="13.794469903">
+  <name>Scheck Linde (Tilia sp.)</name>
+  <cmt>Scheck Linde (Tilia sp.)</cmt>
+  <desc>Scheck Linde (Tilia sp.)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.236492702" lon="16.081970414">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.173172398" lon="16.105105940">
+  <name>Magnolienbaum (Magnolia sp.)</name>
+  <cmt>Magnolienbaum (Magnolia sp.)</cmt>
+  <desc>Magnolienbaum (Magnolia sp.)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.407799443" lon="15.802428386">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.439401379" lon="15.802340136">
+  <name>2 Winterlinden (Tilia cordata)</name>
+  <cmt>2 Winterlinden (Tilia cordata)</cmt>
+  <desc>2 Winterlinden (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.455531593" lon="15.872721471">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.061195431" lon="15.352738578">
+  <name>Eichengruppe (Quercus robur)</name>
+  <cmt>Eichengruppe (Quercus robur)</cmt>
+  <desc>Eichengruppe (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.160612067" lon="15.560191898">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.080602806" lon="15.432912023">
+  <name>Isabella (Vidis x alexanderi)</name>
+  <cmt>Isabella (Vidis x alexanderi)</cmt>
+  <desc>Isabella (Vidis x alexanderi)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.037546141" lon="15.401109276">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.959235981" lon="15.730939885">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.949286036" lon="15.438782906">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.988586348" lon="15.839393609">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.888241877" lon="15.991643053">
+  <name>Edelkastanie (Castanea sativa)</name>
+  <cmt>Edelkastanie (Castanea sativa)</cmt>
+  <desc>Edelkastanie (Castanea sativa)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.827838070" lon="15.930031914">
+  <name>Edelkastanie (Castanea sativa)</name>
+  <cmt>Edelkastanie (Castanea sativa)</cmt>
+  <desc>Edelkastanie (Castanea sativa)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.043006877" lon="16.060966000">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.058511877" lon="16.097179085">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.058397460" lon="16.096205549">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.058659571" lon="16.095464347">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.986371791" lon="16.112220362">
+  <name>Birnbaum (Pyrus communis)</name>
+  <cmt>Birnbaum (Pyrus communis)</cmt>
+  <desc>Birnbaum (Pyrus communis)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.037823188" lon="15.999673347">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.077081320" lon="15.988633425">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.460439308" lon="15.985363399">
+  <name>Rotbuche (Fagus sylvatica)</name>
+  <cmt>Rotbuche (Fagus sylvatica)</cmt>
+  <desc>Rotbuche (Fagus sylvatica)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.364270959" lon="15.647150486">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.363806041" lon="15.843019506">
+  <name>2 Sommerlinden (Tilia platyphyllos)</name>
+  <cmt>2 Sommerlinden (Tilia platyphyllos)</cmt>
+  <desc>2 Sommerlinden (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.286947712" lon="14.814267011">
+  <name>2 Winterlinden (Tilia cordata)</name>
+  <cmt>2 Winterlinden (Tilia cordata)</cmt>
+  <desc>2 Winterlinden (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.762586643" lon="15.166215469">
+  <name>Teilstrecke der Schwarzen Sulm Michelitsch/Deutschmann</name>
+  <cmt>Teilstrecke der Schwarzen Sulm Michelitsch/Deutschmann</cmt>
+  <desc>Teilstrecke der Schwarzen Sulm Michelitsch/Deutschmann</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.805791741" lon="15.086023080">
+  <name>Teilstrecke der Schwarzen Sulm Masser Robert</name>
+  <cmt>Teilstrecke der Schwarzen Sulm Masser Robert</cmt>
+  <desc>Teilstrecke der Schwarzen Sulm Masser Robert</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.154796077" lon="14.705026937">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.188029152" lon="14.645161737">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.188102541" lon="14.644987590">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.405825535" lon="15.089760572">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.395459693" lon="15.031522980">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.390795168" lon="15.048727877">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.451131077" lon="14.981231788">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.451271705" lon="14.981089239">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.542813625" lon="14.885708888">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.581872166" lon="14.825567699">
+  <name>Felsloch mit Quelle Schwarze Lacke</name>
+  <cmt>Felsloch mit Quelle Schwarze Lacke</cmt>
+  <desc>Felsloch mit Quelle Schwarze Lacke</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.768438730" lon="15.311078167">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.000200679" lon="15.259567931">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.972062075" lon="15.204665276">
+  <name>Edelkastanie (Castanea sativa)
+</name>
+  <cmt>Edelkastanie (Castanea sativa)
+</cmt>
+  <desc>Edelkastanie (Castanea sativa)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.960377652" lon="14.989452634">
+  <name>Bergahorn (Acer pseudoplatanus)
+</name>
+  <cmt>Bergahorn (Acer pseudoplatanus)
+</cmt>
+  <desc>Bergahorn (Acer pseudoplatanus)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.993507701" lon="15.207279977">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.017688564" lon="15.005805200">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.038032087" lon="15.206058143">
+  <name>Eibe (Taxus baccata)
+</name>
+  <cmt>Eibe (Taxus baccata)
+</cmt>
+  <desc>Eibe (Taxus baccata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.053887250" lon="15.388782010">
+  <name>2 St$ck Weihrauchzeder (Flu$-Cupressaceae)</name>
+  <cmt>2 St$ck Weihrauchzeder (Flu$-Cupressaceae)</cmt>
+  <desc>2 St$ck Weihrauchzeder (Flu$-Cupressaceae)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.090129887" lon="15.437302499">
+  <name>Ro$kastanie</name>
+  <cmt>Ro$kastanie</cmt>
+  <desc>Ro$kastanie</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.041186931" lon="15.469270624">
+  <name>Eiche</name>
+  <cmt>Eiche</cmt>
+  <desc>Eiche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.123146901" lon="15.429148887">
+  <name>Linde</name>
+  <cmt>Linde</cmt>
+  <desc>Linde</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.049574494" lon="15.390286597">
+  <name>Ginkgo</name>
+  <cmt>Ginkgo</cmt>
+  <desc>Ginkgo</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.107530382" lon="15.492082859">
+  <name>Linde</name>
+  <cmt>Linde</cmt>
+  <desc>Linde</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.080920059" lon="15.436737098">
+  <name>Plantane</name>
+  <cmt>Plantane</cmt>
+  <desc>Plantane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.083270708" lon="15.444899221">
+  <name>Plantane</name>
+  <cmt>Plantane</cmt>
+  <desc>Plantane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.095182910" lon="15.459491726">
+  <name>Blutbuche</name>
+  <cmt>Blutbuche</cmt>
+  <desc>Blutbuche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.089270135" lon="15.441260921">
+  <name>Mammutbaum</name>
+  <cmt>Mammutbaum</cmt>
+  <desc>Mammutbaum</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.089585364" lon="15.441428276">
+  <name>Eibe</name>
+  <cmt>Eibe</cmt>
+  <desc>Eibe</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.088280867" lon="15.435502405">
+  <name>Blubuche</name>
+  <cmt>Blubuche</cmt>
+  <desc>Blubuche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.087198596" lon="15.461201661">
+  <name>Fichte</name>
+  <cmt>Fichte</cmt>
+  <desc>Fichte</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.099568367" lon="15.393445574">
+  <name>Pyramideneiche</name>
+  <cmt>Pyramideneiche</cmt>
+  <desc>Pyramideneiche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.083534296" lon="15.428624051">
+  <name>Gemeine Esche</name>
+  <cmt>Gemeine Esche</cmt>
+  <desc>Gemeine Esche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.065439932" lon="15.454826371">
+  <name>Buche</name>
+  <cmt>Buche</cmt>
+  <desc>Buche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.068726713" lon="15.459182808">
+  <name>Platane</name>
+  <cmt>Platane</cmt>
+  <desc>Platane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.065847204" lon="15.462280859">
+  <name>Ro$kastanie</name>
+  <cmt>Ro$kastanie</cmt>
+  <desc>Ro$kastanie</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.079905968" lon="15.395989460">
+  <name>Eiche</name>
+  <cmt>Eiche</cmt>
+  <desc>Eiche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.106810881" lon="15.484900937">
+  <name>Blutbuche</name>
+  <cmt>Blutbuche</cmt>
+  <desc>Blutbuche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.086520207" lon="15.456182747">
+  <name>Mammutbaum</name>
+  <cmt>Mammutbaum</cmt>
+  <desc>Mammutbaum</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.083066473" lon="15.462958150">
+  <name>Hamlocktanne</name>
+  <cmt>Hamlocktanne</cmt>
+  <desc>Hamlocktanne</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.082916330" lon="15.463579923">
+  <name>Blutbuche</name>
+  <cmt>Blutbuche</cmt>
+  <desc>Blutbuche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.080893336" lon="15.448983934">
+  <name>Paulownia</name>
+  <cmt>Paulownia</cmt>
+  <desc>Paulownia</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.105663605" lon="15.102161880">
+  <name>Submariner Gleithorizont
+</name>
+  <cmt>Submariner Gleithorizont
+</cmt>
+  <desc>Submariner Gleithorizont
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.184526209" lon="15.527980162">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.229920012" lon="15.380378811">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.195383105" lon="15.333834276">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.299969702" lon="15.427611193">
+  <name>Ulme (Ulmus sp.)
+</name>
+  <cmt>Ulme (Ulmus sp.)
+</cmt>
+  <desc>Ulme (Ulmus sp.)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.498864134" lon="14.220835056">
+  <name>Flu$lauf des Gullingbaches
+</name>
+  <cmt>Flu$lauf des Gullingbaches
+</cmt>
+  <desc>Flu$lauf des Gullingbaches
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.702209883" lon="14.878346905">
+  <name>Wasserlochklamm, Palfau
+</name>
+  <cmt>Wasserlochklamm, Palfau
+</cmt>
+  <desc>Wasserlochklamm, Palfau
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.666204198" lon="14.797040311">
+  <name>Gesteinsschichten mit fossilen Tiervorkommen
+</name>
+  <cmt>Gesteinsschichten mit fossilen Tiervorkommen
+</cmt>
+  <desc>Gesteinsschichten mit fossilen Tiervorkommen
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.658663931" lon="14.595442939">
+  <name>Linde (Tilia sp.) Leitner</name>
+  <cmt>Linde (Tilia sp.) Leitner</cmt>
+  <desc>Linde (Tilia sp.) Leitner</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.993725809" lon="15.413578123">
+  <name>Sommerlinde (Tilia platyphyllos), Doppellinde
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos), Doppellinde
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos), Doppellinde
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.283567896" lon="15.272872334">
+  <name>2 Ro$kastanien (Aesculus hippocastanum)
+</name>
+  <cmt>2 Ro$kastanien (Aesculus hippocastanum)
+</cmt>
+  <desc>2 Ro$kastanien (Aesculus hippocastanum)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.024705300" lon="15.552290118">
+  <name>Japanische Fichte (Picea bicolor)
+</name>
+  <cmt>Japanische Fichte (Picea bicolor)
+</cmt>
+  <desc>Japanische Fichte (Picea bicolor)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.133829991" lon="15.489992968">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.460454617" lon="15.985619136">
+  <name>Rotbuche (Fagus sylvatica)</name>
+  <cmt>Rotbuche (Fagus sylvatica)</cmt>
+  <desc>Rotbuche (Fagus sylvatica)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.460466392" lon="15.985866341">
+  <name>Rotbuche (Fagus sylvatica)</name>
+  <cmt>Rotbuche (Fagus sylvatica)</cmt>
+  <desc>Rotbuche (Fagus sylvatica)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.283591736" lon="15.960334290">
+  <name>Roteiche (Quercus rubra)</name>
+  <cmt>Roteiche (Quercus rubra)</cmt>
+  <desc>Roteiche (Quercus rubra)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.385440551" lon="15.902147075">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.368058602" lon="16.010162941">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.280638041" lon="16.025648370">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.494126499" lon="16.072008122">
+  <name>Lindengruppe (Tilia cordata)</name>
+  <cmt>Lindengruppe (Tilia cordata)</cmt>
+  <desc>Lindengruppe (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.282098540" lon="15.959407144">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.405417522" lon="15.263003885">
+  <name>Sommerlinde (Tilia platyphyllos), Klosterlinde</name>
+  <cmt>Sommerlinde (Tilia platyphyllos), Klosterlinde</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos), Klosterlinde</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.344899588" lon="15.403115644">
+  <name>B$rensch$tzklamm
+</name>
+  <cmt>B$rensch$tzklamm
+</cmt>
+  <desc>B$rensch$tzklamm
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.683564948" lon="15.649216892">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.168331186" lon="14.157531720">
+  <name>Bergulme (Ulmus glabra)</name>
+  <cmt>Bergulme (Ulmus glabra)</cmt>
+  <desc>Bergulme (Ulmus glabra)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.530959005" lon="15.519419765">
+  <name>Rotbuche (Fagus sylvatica)
+</name>
+  <cmt>Rotbuche (Fagus sylvatica)
+</cmt>
+  <desc>Rotbuche (Fagus sylvatica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.526971796" lon="15.498807674">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.535161359" lon="15.512128351">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.705838664" lon="14.523388444">
+  <name>T$rkenkopf (Felsbildung)
+</name>
+  <cmt>T$rkenkopf (Felsbildung)
+</cmt>
+  <desc>T$rkenkopf (Felsbildung)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.540067543" lon="14.583027458">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.268361416" lon="14.892815255">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.267538824" lon="14.892953154">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.172067176" lon="14.914649180">
+  <name>Tanne (Abies alba)
+</name>
+  <cmt>Tanne (Abies alba)
+</cmt>
+  <desc>Tanne (Abies alba)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.414784796" lon="15.672961562">
+  <name>Stechpalme (Ilex aquifolium)
+</name>
+  <cmt>Stechpalme (Ilex aquifolium)
+</cmt>
+  <desc>Stechpalme (Ilex aquifolium)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.999421415" lon="15.208829463">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.131323557" lon="15.427117621">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.269799479" lon="15.319014353">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.184106013" lon="15.352335227">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.029139047" lon="15.289312413">
+  <name>Mammutbaum (Sequoiadendron giganteum)
+</name>
+  <cmt>Mammutbaum (Sequoiadendron giganteum)
+</cmt>
+  <desc>Mammutbaum (Sequoiadendron giganteum)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.217205267" lon="15.195716203">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.218047661" lon="15.194925470">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.218820684" lon="15.194642009">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.190200451" lon="15.314819483">
+  <name>Sommerlinde (Tilia platyphyllos) 
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos) 
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos) 
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.189904413" lon="15.523494840">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.162286813" lon="15.292462068">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.195368108" lon="15.305145001">
+  <name>Traubeneiche (Quercus petraea)
+</name>
+  <cmt>Traubeneiche (Quercus petraea)
+</cmt>
+  <desc>Traubeneiche (Quercus petraea)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.238741569" lon="15.404470523">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.238042981" lon="15.404761368">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.222293029" lon="15.291439260">
+  <name>4 Tamarisken (Tamarix sp.)
+</name>
+  <cmt>4 Tamarisken (Tamarix sp.)
+</cmt>
+  <desc>4 Tamarisken (Tamarix sp.)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.160574565" lon="15.534912473">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.235659166" lon="15.676358026">
+  <name>Hopfenbuche</name>
+  <cmt>Hopfenbuche</cmt>
+  <desc>Hopfenbuche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.055926650" lon="15.499946476">
+  <name>Mammutbaum (Sequoiadendron giganteum)
+</name>
+  <cmt>Mammutbaum (Sequoiadendron giganteum)
+</cmt>
+  <desc>Mammutbaum (Sequoiadendron giganteum)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.216280720" lon="15.195415226">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.932259605" lon="15.571996339">
+  <name>Ro$kastanie (Aesculum hippocastanum)
+</name>
+  <cmt>Ro$kastanie (Aesculum hippocastanum)
+</cmt>
+  <desc>Ro$kastanie (Aesculum hippocastanum)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.829359075" lon="15.465976386">
+  <name>Buchsbaum (Buxus sempervirens)
+</name>
+  <cmt>Buchsbaum (Buxus sempervirens)
+</cmt>
+  <desc>Buchsbaum (Buxus sempervirens)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.871897016" lon="15.726106242">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.930642022" lon="15.956281076">
+  <name>Blutbuche (Fagus sylvatica atropurpurea)</name>
+  <cmt>Blutbuche (Fagus sylvatica atropurpurea)</cmt>
+  <desc>Blutbuche (Fagus sylvatica atropurpurea)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.953435069" lon="15.884783651">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.991861872" lon="15.784613936">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.659346916" lon="14.730067669">
+  <name>Baumhaselgruppe im Daum-Park</name>
+  <cmt>Baumhaselgruppe im Daum-Park</cmt>
+  <desc>Baumhaselgruppe im Daum-Park</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.426183522" lon="16.026727888">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.495060585" lon="16.035234957">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.484337742" lon="16.052830195">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.464180604" lon="15.915883163">
+  <name>Winterlinde (Tilia cordata), Kernstocklinde</name>
+  <cmt>Winterlinde (Tilia cordata), Kernstocklinde</cmt>
+  <desc>Winterlinde (Tilia cordata), Kernstocklinde</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.425714553" lon="15.756239718">
+  <name>Zwei Feldulmen (Ulmus carpinifolia)</name>
+  <cmt>Zwei Feldulmen (Ulmus carpinifolia)</cmt>
+  <desc>Zwei Feldulmen (Ulmus carpinifolia)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.333488241" lon="15.880974169">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.931783086" lon="15.853602170">
+  <name>Hirschbirnbaum (Pyrus communis var.)</name>
+  <cmt>Hirschbirnbaum (Pyrus communis var.)</cmt>
+  <desc>Hirschbirnbaum (Pyrus communis var.)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.867172803" lon="15.963393949">
+  <name>Hirschbirnbaum (Pyrus communis var.)</name>
+  <cmt>Hirschbirnbaum (Pyrus communis var.)</cmt>
+  <desc>Hirschbirnbaum (Pyrus communis var.)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.120398574" lon="15.728379246">
+  <name>3 Edelkastanienb$ume (Castanea sativa)</name>
+  <cmt>3 Edelkastanienb$ume (Castanea sativa)</cmt>
+  <desc>3 Edelkastanienb$ume (Castanea sativa)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.843866150" lon="15.541529565">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.895611997" lon="15.258172275">
+  <name>Rotbuche (Fagus sylvatica)</name>
+  <cmt>Rotbuche (Fagus sylvatica)</cmt>
+  <desc>Rotbuche (Fagus sylvatica)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.859650172" lon="15.090414967">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.389365515" lon="15.267104674">
+  <name>Rotbuche &apos;Bienensteinbruch&apos;(Fagus sylvatica)</name>
+  <cmt>Rotbuche &apos;Bienensteinbruch&apos;(Fagus sylvatica)</cmt>
+  <desc>Rotbuche &apos;Bienensteinbruch&apos;(Fagus sylvatica)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.783076468" lon="15.530321764">
+  <name>Stieleiche (Quercus robus)</name>
+  <cmt>Stieleiche (Quercus robus)</cmt>
+  <desc>Stieleiche (Quercus robus)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.823107547" lon="15.891983099">
+  <name>Sieleiche (Quercus robur)</name>
+  <cmt>Sieleiche (Quercus robur)</cmt>
+  <desc>Sieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.137466361" lon="15.312379265">
+  <name>Edelkastanie</name>
+  <cmt>Edelkastanie</cmt>
+  <desc>Edelkastanie</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.269440708" lon="15.311458711">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.049194426" lon="15.488589594">
+  <name>Lebensraum</name>
+  <cmt>Lebensraum</cmt>
+  <desc>Lebensraum</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.005523464" lon="15.447102861">
+  <name>Stieleiche</name>
+  <cmt>Stieleiche</cmt>
+  <desc>Stieleiche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.021820878" lon="14.425226374">
+  <name>Linde (Tilia sp.)
+</name>
+  <cmt>Linde (Tilia sp.)
+</cmt>
+  <desc>Linde (Tilia sp.)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.611055126" lon="13.785175511">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.627979012" lon="13.832244754">
+  <name>Eibe (Taxus baccata)</name>
+  <cmt>Eibe (Taxus baccata)</cmt>
+  <desc>Eibe (Taxus baccata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.028777741" lon="14.515929571">
+  <name>Lerche</name>
+  <cmt>Lerche</cmt>
+  <desc>Lerche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.628663184" lon="13.831881523">
+  <name>Eibe (Taxus baccata)</name>
+  <cmt>Eibe (Taxus baccata)</cmt>
+  <desc>Eibe (Taxus baccata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.621591452" lon="13.828422112">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.621541294" lon="13.828258655">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.190454835" lon="13.966892617">
+  <name>Bergahorn (Acer pseudoplatanus)</name>
+  <cmt>Bergahorn (Acer pseudoplatanus)</cmt>
+  <desc>Bergahorn (Acer pseudoplatanus)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.099465461" lon="14.092810887">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.181598913" lon="14.121374240">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.139897002" lon="14.321874889">
+  <name>Nu$baum (Juglans regia)</name>
+  <cmt>Nu$baum (Juglans regia)</cmt>
+  <desc>Nu$baum (Juglans regia)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.157327112" lon="14.082895545">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.157255745" lon="14.082729027">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.190821227" lon="13.972491884">
+  <name>Bergahorn (Acer pseudoplatanus)</name>
+  <cmt>Bergahorn (Acer pseudoplatanus)</cmt>
+  <desc>Bergahorn (Acer pseudoplatanus)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.126468311" lon="13.943936182">
+  <name>Zirbelkiefer (Pinus cembra)</name>
+  <cmt>Zirbelkiefer (Pinus cembra)</cmt>
+  <desc>Zirbelkiefer (Pinus cembra)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.634384989" lon="13.854916671">
+  <name>Wei$kiefer (Pinus sabiniana), westlicher Baum</name>
+  <cmt>Wei$kiefer (Pinus sabiniana), westlicher Baum</cmt>
+  <desc>Wei$kiefer (Pinus sabiniana), westlicher Baum</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.651534695" lon="14.854339952">
+  <name>Flintenstein-Abbau, Gams</name>
+  <cmt>Flintenstein-Abbau, Gams</cmt>
+  <desc>Flintenstein-Abbau, Gams</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.587235418" lon="14.470612922">
+  <name>Linde (Tilia sp.) Auer</name>
+  <cmt>Linde (Tilia sp.) Auer</cmt>
+  <desc>Linde (Tilia sp.) Auer</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.582021923" lon="14.463597905">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.581529231" lon="14.541052286">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.456357101" lon="14.683289559">
+  <name>Felsbildung Ronner Mauer</name>
+  <cmt>Felsbildung Ronner Mauer</cmt>
+  <desc>Felsbildung Ronner Mauer</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.568108617" lon="14.776311567">
+  <name>Felsgebilde Steinerne Jungfrau</name>
+  <cmt>Felsgebilde Steinerne Jungfrau</cmt>
+  <desc>Felsgebilde Steinerne Jungfrau</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.057074742" lon="14.375627964">
+  <name>Baumgruppe Ertl (2 Sommerlinden, 2 Eschen)</name>
+  <cmt>Baumgruppe Ertl (2 Sommerlinden, 2 Eschen)</cmt>
+  <desc>Baumgruppe Ertl (2 Sommerlinden, 2 Eschen)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.070661940" lon="14.367386028">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.142482968" lon="14.419752768">
+  <name>2 Sommerlinden (Tilia platyphyllos)</name>
+  <cmt>2 Sommerlinden (Tilia platyphyllos)</cmt>
+  <desc>2 Sommerlinden (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.591516791" lon="14.203593658">
+  <name>3 Bergahornb$ume (Acer pseudoplatanus)
+</name>
+  <cmt>3 Bergahornb$ume (Acer pseudoplatanus)
+</cmt>
+  <desc>3 Bergahornb$ume (Acer pseudoplatanus)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.186289985" lon="14.066710080">
+  <name>Wasserfall in der K$nsten</name>
+  <cmt>Wasserfall in der K$nsten</cmt>
+  <desc>Wasserfall in der K$nsten</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.421697730" lon="13.654703480">
+  <name>Ahornbaum</name>
+  <cmt>Ahornbaum</cmt>
+  <desc>Ahornbaum</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.173211811" lon="14.627543786">
+  <name>Gletschergrundmorene bei Gr$nh$bel-Matzenbichl</name>
+  <cmt>Gletschergrundmorene bei Gr$nh$bel-Matzenbichl</cmt>
+  <desc>Gletschergrundmorene bei Gr$nh$bel-Matzenbichl</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.074890702" lon="14.296480401">
+  <name>Klamm in St.Lambrecht</name>
+  <cmt>Klamm in St.Lambrecht</cmt>
+  <desc>Klamm in St.Lambrecht</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.310852630" lon="14.869966394">
+  <name>Winterlinde (Tiia cordata)</name>
+  <cmt>Winterlinde (Tiia cordata)</cmt>
+  <desc>Winterlinde (Tiia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.207866728" lon="14.683637180">
+  <name>4 Rotbuchen am Friedhof in Fohnsdorf</name>
+  <cmt>4 Rotbuchen am Friedhof in Fohnsdorf</cmt>
+  <desc>4 Rotbuchen am Friedhof in Fohnsdorf</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.347467527" lon="14.385597646">
+  <name>Rotbuchein der Gemeinde Bretstein</name>
+  <cmt>Rotbuchein der Gemeinde Bretstein</cmt>
+  <desc>Rotbuchein der Gemeinde Bretstein</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.195535541" lon="15.306392323">
+  <name>Sommerlinden (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinden (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinden (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.194505355" lon="15.352503480">
+  <name>Mammutbaum (Sequoiadendron giganteum)
+</name>
+  <cmt>Mammutbaum (Sequoiadendron giganteum)
+</cmt>
+  <desc>Mammutbaum (Sequoiadendron giganteum)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.201487281" lon="15.400023660">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.261496104" lon="15.493148432">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.158692189" lon="15.430154777">
+  <name>Rotbuche (Fagus sylvatica)</name>
+  <cmt>Rotbuche (Fagus sylvatica)</cmt>
+  <desc>Rotbuche (Fagus sylvatica)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.136083708" lon="15.425196549">
+  <name>Karstquelle Andritz-Ursprung</name>
+  <cmt>Karstquelle Andritz-Ursprung</cmt>
+  <desc>Karstquelle Andritz-Ursprung</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.131525377" lon="15.433546706">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.181582787" lon="15.489283790">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.073205503" lon="15.511762967">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.011063075" lon="15.391044250">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.962585947" lon="15.372190732">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.251240378" lon="15.433066596">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.011473145" lon="15.502063859">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.139841217" lon="15.222749391">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.112720300" lon="15.339472429">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.224005124" lon="15.341708469">
+  <name>Efeu (Hedera helix)
+</name>
+  <cmt>Efeu (Hedera helix)
+</cmt>
+  <desc>Efeu (Hedera helix)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.034983962" lon="15.322861552">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.217548423" lon="15.403216792">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.956811170" lon="15.357416785">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.948092010" lon="15.377764138">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.985394565" lon="15.311487245">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.532226063" lon="14.268579081">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.686580361" lon="14.706109078">
+  <name>2 Sommerlinden (Tilia platyphyllos) beim Weberkreuz</name>
+  <cmt>2 Sommerlinden (Tilia platyphyllos) beim Weberkreuz</cmt>
+  <desc>2 Sommerlinden (Tilia platyphyllos) beim Weberkreuz</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.489834905" lon="14.527224264">
+  <name>Bergulme (Ulmus glabra)
+</name>
+  <cmt>Bergulme (Ulmus glabra)
+</cmt>
+  <desc>Bergulme (Ulmus glabra)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.447957684" lon="14.134837004">
+  <name>Donnersbacher Klamm
+</name>
+  <cmt>Donnersbacher Klamm
+</cmt>
+  <desc>Donnersbacher Klamm
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.654845689" lon="14.764827399">
+  <name>Winterlinde (Tilia cordata)
+Winterlinde (Tilia cordata)
+Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+Winterlinde (Tilia cordata)
+Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+Winterlinde (Tilia cordata)
+Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.582363834" lon="14.548221241">
+  <name>Kataraktstrecke der Enns (Ges$useeingang)
+</name>
+  <cmt>Kataraktstrecke der Enns (Ges$useeingang)
+</cmt>
+  <desc>Kataraktstrecke der Enns (Ges$useeingang)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.549975138" lon="14.155050071">
+  <name>Rotbuche (Fagus sylvatica)
+</name>
+  <cmt>Rotbuche (Fagus sylvatica)
+</cmt>
+  <desc>Rotbuche (Fagus sylvatica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.064545186" lon="13.915298859">
+  <name>Klamm (Turrachbach-Klause)</name>
+  <cmt>Klamm (Turrachbach-Klause)</cmt>
+  <desc>Klamm (Turrachbach-Klause)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.103717124" lon="14.202114712">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.661985529" lon="14.596031662">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.648449081" lon="14.593853386">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.606529619" lon="13.772215025">
+  <name>Linde am Teichgraben (Tilia sp.)</name>
+  <cmt>Linde am Teichgraben (Tilia sp.)</cmt>
+  <desc>Linde am Teichgraben (Tilia sp.)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.638958664" lon="13.759343565">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.593748428" lon="13.867117074">
+  <name>Kuppe des Feuerkogels</name>
+  <cmt>Kuppe des Feuerkogels</cmt>
+  <desc>Kuppe des Feuerkogels</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.600322052" lon="13.776567107">
+  <name>Klamm und Wasserf$lle am Teichenbach</name>
+  <cmt>Klamm und Wasserf$lle am Teichenbach</cmt>
+  <desc>Klamm und Wasserf$lle am Teichenbach</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.554815524" lon="13.930661896">
+  <name>Spitzahorn (Acer platanoides)</name>
+  <cmt>Spitzahorn (Acer platanoides)</cmt>
+  <desc>Spitzahorn (Acer platanoides)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.190521696" lon="13.948141605">
+  <name>Berg-Ulme (Ulmus glabra)</name>
+  <cmt>Berg-Ulme (Ulmus glabra)</cmt>
+  <desc>Berg-Ulme (Ulmus glabra)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.550213664" lon="14.763400823">
+  <name>Buche (Rotbuche, Fagus sylvatica)
+</name>
+  <cmt>Buche (Rotbuche, Fagus sylvatica)
+</cmt>
+  <desc>Buche (Rotbuche, Fagus sylvatica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.550206673" lon="14.763992357">
+  <name>Eiche (Quercus sp.)
+</name>
+  <cmt>Eiche (Quercus sp.)
+</cmt>
+  <desc>Eiche (Quercus sp.)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.544732980" lon="14.762189398">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.684325383" lon="14.617695495">
+  <name>Linde (Tilia sp.) Felbinger</name>
+  <cmt>Linde (Tilia sp.) Felbinger</cmt>
+  <desc>Linde (Tilia sp.) Felbinger</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.492964776" lon="14.547839534">
+  <name>Linde (Tilia sp.)
+</name>
+  <cmt>Linde (Tilia sp.)
+</cmt>
+  <desc>Linde (Tilia sp.)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.592796320" lon="14.363431482">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.220321373" lon="14.580379420">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.426597347" lon="15.760253136">
+  <name>Bergahorn (Acer pseudoplatanus)</name>
+  <cmt>Bergahorn (Acer pseudoplatanus)</cmt>
+  <desc>Bergahorn (Acer pseudoplatanus)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.243532125" lon="16.059561415">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.348933025" lon="15.794133593">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.338802063" lon="15.799090419">
+  <name>Rotbuche (Fagus sylvatica)</name>
+  <cmt>Rotbuche (Fagus sylvatica)</cmt>
+  <desc>Rotbuche (Fagus sylvatica)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.466303016" lon="15.785891246">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.339711692" lon="15.745567555">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.435939895" lon="16.141435358">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.814963043" lon="15.222862092">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.857943160" lon="15.086727265">
+  <name>Wei$kiefer</name>
+  <cmt>Wei$kiefer</cmt>
+  <desc>Wei$kiefer</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.074086526" lon="15.948301177">
+  <name>Winterlinde</name>
+  <cmt>Winterlinde</cmt>
+  <desc>Winterlinde</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.651664530" lon="15.305017942">
+  <name>Winterlinde &apos;Birnbaumlinde&apos;</name>
+  <cmt>Winterlinde &apos;Birnbaumlinde&apos;</cmt>
+  <desc>Winterlinde &apos;Birnbaumlinde&apos;</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.687440701" lon="16.002229414">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.687083666" lon="16.003796213">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.671439797" lon="16.015465989">
+  <name>Spitzahorn (Acer platanoides)</name>
+  <cmt>Spitzahorn (Acer platanoides)</cmt>
+  <desc>Spitzahorn (Acer platanoides)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.235606455" lon="13.904782719">
+  <name>L$rche (Larix decidua)</name>
+  <cmt>L$rche (Larix decidua)</cmt>
+  <desc>L$rche (Larix decidua)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.218642896" lon="13.916795403">
+  <name>L$rche (Larix decidua)</name>
+  <cmt>L$rche (Larix decidua)</cmt>
+  <desc>L$rche (Larix decidua)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.571707641" lon="14.391539115">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.043139453" lon="16.060730624">
+  <name>Winterlinden (Tilia cordata)</name>
+  <cmt>Winterlinden (Tilia cordata)</cmt>
+  <desc>Winterlinden (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.042988561" lon="16.060619655">
+  <name>Geweihbaum Gymnocladus dioicus</name>
+  <cmt>Geweihbaum Gymnocladus dioicus</cmt>
+  <desc>Geweihbaum Gymnocladus dioicus</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.580647507" lon="14.591005620">
+  <name>Rotbuche (Fagus sylvatica)
+</name>
+  <cmt>Rotbuche (Fagus sylvatica)
+</cmt>
+  <desc>Rotbuche (Fagus sylvatica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.580777361" lon="14.459794100">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.566601718" lon="14.406999122">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.345210521" lon="14.176015667">
+  <name>Zirbe (Pinus cembra)
+</name>
+  <cmt>Zirbe (Pinus cembra)
+</cmt>
+  <desc>Zirbe (Pinus cembra)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.405283662" lon="14.126035869">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.686117536" lon="14.586032249">
+  <name>Spitzenbachklamm
+</name>
+  <cmt>Spitzenbachklamm
+</cmt>
+  <desc>Spitzenbachklamm
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.668461441" lon="14.803842962">
+  <name>Die Noth (Klamm)</name>
+  <cmt>Die Noth (Klamm)</cmt>
+  <desc>Die Noth (Klamm)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.547109178" lon="14.587755679">
+  <name>Felsgebilde Schulmeister</name>
+  <cmt>Felsgebilde Schulmeister</cmt>
+  <desc>Felsgebilde Schulmeister</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.552289939" lon="14.583057980">
+  <name>Felsgebilde Buckliger Schneider</name>
+  <cmt>Felsgebilde Buckliger Schneider</cmt>
+  <desc>Felsgebilde Buckliger Schneider</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.528887772" lon="14.146605423">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.528801133" lon="14.146594857">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.711622263" lon="15.962274572">
+  <name>Stieleiche</name>
+  <cmt>Stieleiche</cmt>
+  <desc>Stieleiche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.702001019" lon="16.012379624">
+  <name>Stieleiche</name>
+  <cmt>Stieleiche</cmt>
+  <desc>Stieleiche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.556725411" lon="14.322832918">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.006620946" lon="15.935289854">
+  <name>Rotbuche (Fagus sylvatica)</name>
+  <cmt>Rotbuche (Fagus sylvatica)</cmt>
+  <desc>Rotbuche (Fagus sylvatica)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.312050288" lon="13.679646779">
+  <name>Giglachbach</name>
+  <cmt>Giglachbach</cmt>
+  <desc>Giglachbach</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.201733810" lon="15.362605816">
+  <name>Wasserfall in Peggau-Hinterberg</name>
+  <cmt>Wasserfall in Peggau-Hinterberg</cmt>
+  <desc>Wasserfall in Peggau-Hinterberg</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.649258340" lon="15.479289723">
+  <name>Eibe</name>
+  <cmt>Eibe</cmt>
+  <desc>Eibe</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.327861624" lon="13.764109202">
+  <name>Riesachfall</name>
+  <cmt>Riesachfall</cmt>
+  <desc>Riesachfall</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.306872499" lon="13.772281256">
+  <name>Wei$kiefer (Pinus sabiniana)</name>
+  <cmt>Wei$kiefer (Pinus sabiniana)</cmt>
+  <desc>Wei$kiefer (Pinus sabiniana)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.442710135" lon="13.906856414">
+  <name>Eiche (Quercus sp.)</name>
+  <cmt>Eiche (Quercus sp.)</cmt>
+  <desc>Eiche (Quercus sp.)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.437849462" lon="13.715307225">
+  <name>Schleierfall</name>
+  <cmt>Schleierfall</cmt>
+  <desc>Schleierfall</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.286107964" lon="14.861445377">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.072262056" lon="15.392456808">
+  <name>Weymountkiefer</name>
+  <cmt>Weymountkiefer</cmt>
+  <desc>Weymountkiefer</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.072684256" lon="15.391419684">
+  <name>Weymountskiefer</name>
+  <cmt>Weymountskiefer</cmt>
+  <desc>Weymountskiefer</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.072927029" lon="15.391294143">
+  <name>Weymountskiefer</name>
+  <cmt>Weymountskiefer</cmt>
+  <desc>Weymountskiefer</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.285344130" lon="14.858986999">
+  <name>Zwillingseiche (Quercus robur)
+</name>
+  <cmt>Zwillingseiche (Quercus robur)
+</cmt>
+  <desc>Zwillingseiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.276301569" lon="14.853517803">
+  <name>Ro$kastanie (Aesculus hippocastanum)
+</name>
+  <cmt>Ro$kastanie (Aesculus hippocastanum)
+</cmt>
+  <desc>Ro$kastanie (Aesculus hippocastanum)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.148703685" lon="14.850329914">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.148730909" lon="14.850227748">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.215525693" lon="14.779534996">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.753657949" lon="15.193073569">
+  <name>Wei$buche (Carpinus betulus)</name>
+  <cmt>Wei$buche (Carpinus betulus)</cmt>
+  <desc>Wei$buche (Carpinus betulus)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.641924569" lon="15.241436492">
+  <name>Eibe (Taxus baccata)</name>
+  <cmt>Eibe (Taxus baccata)</cmt>
+  <desc>Eibe (Taxus baccata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.452926111" lon="15.301733226">
+  <name>T$llermayer-Kreuz (10 Buchen, 1 Stieleiche)</name>
+  <cmt>T$llermayer-Kreuz (10 Buchen, 1 Stieleiche)</cmt>
+  <desc>T$llermayer-Kreuz (10 Buchen, 1 Stieleiche)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.426133486" lon="13.752320862">
+  <name>Luserfall</name>
+  <cmt>Luserfall</cmt>
+  <desc>Luserfall</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.447801537" lon="13.796174576">
+  <name>Gradenbachfall</name>
+  <cmt>Gradenbachfall</cmt>
+  <desc>Gradenbachfall</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.025126416" lon="15.552336326">
+  <name>Griechische Wei$tanne (Abies cephalonica)
+</name>
+  <cmt>Griechische Wei$tanne (Abies cephalonica)
+</cmt>
+  <desc>Griechische Wei$tanne (Abies cephalonica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.024790132" lon="15.551603680">
+  <name>Atlaszeder (Cedrus atlantica)
+</name>
+  <cmt>Atlaszeder (Cedrus atlantica)
+</cmt>
+  <desc>Atlaszeder (Cedrus atlantica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.500606141" lon="14.103314944">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.569503963" lon="14.458067300">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.569367015" lon="14.454990109">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.567221122" lon="14.459386766">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.593906325" lon="14.496501648">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.635573416" lon="14.767043028">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.194781689" lon="14.852462563">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.545293332" lon="14.208996953">
+  <name>2 H$ngebirken (Betula pendula)
+</name>
+  <cmt>2 H$ngebirken (Betula pendula)
+</cmt>
+  <desc>2 H$ngebirken (Betula pendula)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.544296908" lon="14.028674143">
+  <name>Gro$e Grimming-Klachauer Gef$llsstufe
+</name>
+  <cmt>Gro$e Grimming-Klachauer Gef$llsstufe
+</cmt>
+  <desc>Gro$e Grimming-Klachauer Gef$llsstufe
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.528568764" lon="14.056789768">
+  <name>Untergrimminger Kataraktstufe
+</name>
+  <cmt>Untergrimminger Kataraktstufe
+</cmt>
+  <desc>Untergrimminger Kataraktstufe
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.469376977" lon="14.615988266">
+  <name>Sommerlinde II (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde II (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde II (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.469341354" lon="14.616576556">
+  <name>Sommerlinde I (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde I (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde I (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.565284736" lon="14.141536105">
+  <name>W$rschachklamm</name>
+  <cmt>W$rschachklamm</cmt>
+  <desc>W$rschachklamm</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.640685542" lon="15.441928277">
+  <name>Edelkastanie (Castanea sativa)
+</name>
+  <cmt>Edelkastanie (Castanea sativa)
+</cmt>
+  <desc>Edelkastanie (Castanea sativa)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.640650749" lon="15.442227422">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.929077539" lon="15.174319966">
+  <name>Felss$ule Mannagettaofen</name>
+  <cmt>Felss$ule Mannagettaofen</cmt>
+  <desc>Felss$ule Mannagettaofen</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.004640025" lon="15.603531857">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.648621874" lon="15.448194584">
+  <name>Linde (Tilia sp.)
+</name>
+  <cmt>Linde (Tilia sp.)
+</cmt>
+  <desc>Linde (Tilia sp.)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.670264842" lon="15.537222930">
+  <name>Speierling (Sorbus domestica)
+</name>
+  <cmt>Speierling (Sorbus domestica)
+</cmt>
+  <desc>Speierling (Sorbus domestica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.801922506" lon="15.496645515">
+  <name>Sommereiche (Quercus robur)
+</name>
+  <cmt>Sommereiche (Quercus robur)
+</cmt>
+  <desc>Sommereiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.248233135" lon="15.181117933">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.260646342" lon="15.323714061">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.257987215" lon="15.328324660">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.257025938" lon="15.329103919">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.257276950" lon="15.329177811">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.854750254" lon="15.737887140">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.045622579" lon="15.971722014">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.953151260" lon="15.836980142">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.681449730" lon="15.074585869">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.580124642" lon="14.123149545">
+  <name>4 Kammfichten (Picea abies), B$renfeuchten
+</name>
+  <cmt>4 Kammfichten (Picea abies), B$renfeuchten
+</cmt>
+  <desc>4 Kammfichten (Picea abies), B$renfeuchten
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.550753344" lon="14.041877148">
+  <name>Lesserner-Wasserf$lle
+</name>
+  <cmt>Lesserner-Wasserf$lle
+</cmt>
+  <desc>Lesserner-Wasserf$lle
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.286353052" lon="14.759406842">
+  <name>Zirbe (Pinus cembra)
+</name>
+  <cmt>Zirbe (Pinus cembra)
+</cmt>
+  <desc>Zirbe (Pinus cembra)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.306272322" lon="15.834229943">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.894603066" lon="15.445830772">
+  <name>Basaltsteinbruch</name>
+  <cmt>Basaltsteinbruch</cmt>
+  <desc>Basaltsteinbruch</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.779720362" lon="15.569421865">
+  <name>Platane</name>
+  <cmt>Platane</cmt>
+  <desc>Platane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.779231514" lon="15.569718676">
+  <name>Platane</name>
+  <cmt>Platane</cmt>
+  <desc>Platane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.026454507" lon="15.625903406">
+  <name>Rofinie</name>
+  <cmt>Rofinie</cmt>
+  <desc>Rofinie</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.017524371" lon="15.635551841">
+  <name>Stieleiche</name>
+  <cmt>Stieleiche</cmt>
+  <desc>Stieleiche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.092913626" lon="14.629675449">
+  <name>Granitzenbach Abschnitt A
+</name>
+  <cmt>Granitzenbach Abschnitt A
+</cmt>
+  <desc>Granitzenbach Abschnitt A
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.334072174" lon="14.418639603">
+  <name>Birnbaum (Pyrus communis)
+</name>
+  <cmt>Birnbaum (Pyrus communis)
+</cmt>
+  <desc>Birnbaum (Pyrus communis)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.039701522" lon="14.687350281">
+  <name>4 Zirben (Pinus cembra)
+</name>
+  <cmt>4 Zirben (Pinus cembra)
+</cmt>
+  <desc>4 Zirben (Pinus cembra)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.155678144" lon="14.744705588">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.098353927" lon="14.400387426">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.127076615" lon="15.016033676">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.128701278" lon="15.024875780">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.129951534" lon="15.321185713">
+  <name>Eibe (Taxus baccata)
+</name>
+  <cmt>Eibe (Taxus baccata)
+</cmt>
+  <desc>Eibe (Taxus baccata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.098525838" lon="15.345371673">
+  <name>Rotbuche (Fagus sylvatica)
+</name>
+  <cmt>Rotbuche (Fagus sylvatica)
+</cmt>
+  <desc>Rotbuche (Fagus sylvatica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.779418465" lon="15.574595894">
+  <name>Platane (Platanus hispanica)</name>
+  <cmt>Platane (Platanus hispanica)</cmt>
+  <desc>Platane (Platanus hispanica)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.115368337" lon="16.032598215">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.912261571" lon="15.618069838">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.913154774" lon="15.671273324">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.985746565" lon="16.047633425">
+  <name>Schwarzpappel (Populus nigra)</name>
+  <cmt>Schwarzpappel (Populus nigra)</cmt>
+  <desc>Schwarzpappel (Populus nigra)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.956852560" lon="15.629215575">
+  <name>Eiche (Quercus sp.)</name>
+  <cmt>Eiche (Quercus sp.)</cmt>
+  <desc>Eiche (Quercus sp.)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.430379694" lon="15.839711805">
+  <name>6 Winterlinden (Tilia cordata)</name>
+  <cmt>6 Winterlinden (Tilia cordata)</cmt>
+  <desc>6 Winterlinden (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.369858011" lon="16.010085583">
+  <name>Wei$dornbaum (Crataegus monogyna)</name>
+  <cmt>Wei$dornbaum (Crataegus monogyna)</cmt>
+  <desc>Wei$dornbaum (Crataegus monogyna)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.877756155" lon="15.657643170">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.409624184" lon="13.965491082">
+  <name>Ahorn (Acer sp.)</name>
+  <cmt>Ahorn (Acer sp.)</cmt>
+  <desc>Ahorn (Acer sp.)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.259101587" lon="14.498296324">
+  <name>L$rche (Larix decidua)
+</name>
+  <cmt>L$rche (Larix decidua)
+</cmt>
+  <desc>L$rche (Larix decidua)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.257012528" lon="15.328918944">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.990381589" lon="15.557148761">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.884404681" lon="15.532435854">
+  <name>Winterlinde (Tilia cordata )
+</name>
+  <cmt>Winterlinde (Tilia cordata )
+</cmt>
+  <desc>Winterlinde (Tilia cordata )
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.808912012" lon="15.512584080">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.887209800" lon="15.521322068">
+  <name>2 Sommerlinden (Tilia platyphyllos)</name>
+  <cmt>2 Sommerlinden (Tilia platyphyllos)</cmt>
+  <desc>2 Sommerlinden (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.814087949" lon="15.402309422">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.782665210" lon="15.540691147">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.621442743" lon="15.495428730">
+  <name>Eibe (Taxus baccata)</name>
+  <cmt>Eibe (Taxus baccata)</cmt>
+  <desc>Eibe (Taxus baccata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.680624697" lon="15.520550689">
+  <name>Edelkastanie (Castanea sativa)</name>
+  <cmt>Edelkastanie (Castanea sativa)</cmt>
+  <desc>Edelkastanie (Castanea sativa)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.884035899" lon="15.518680172">
+  <name>Gingko (Gingko biloba)</name>
+  <cmt>Gingko (Gingko biloba)</cmt>
+  <desc>Gingko (Gingko biloba)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.883332483" lon="15.519212613">
+  <name>Rotbuche (Fagus sylvatica)</name>
+  <cmt>Rotbuche (Fagus sylvatica)</cmt>
+  <desc>Rotbuche (Fagus sylvatica)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.789037062" lon="15.565821371">
+  <name>Platane (Platanus hispanica)</name>
+  <cmt>Platane (Platanus hispanica)</cmt>
+  <desc>Platane (Platanus hispanica)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.961737459" lon="15.885121731">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.653298459" lon="15.299778615">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.653374655" lon="15.299914497">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.904518812" lon="15.258795265">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.783291350" lon="15.151970793">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.708149008" lon="15.145217149">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.757120242" lon="15.198174975">
+  <name>Eibe (Taxus baccata)
+</name>
+  <cmt>Eibe (Taxus baccata)
+</cmt>
+  <desc>Eibe (Taxus baccata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.797136187" lon="15.135727988">
+  <name>Eklogitfelsen
+</name>
+  <cmt>Eklogitfelsen
+</cmt>
+  <desc>Eklogitfelsen
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.681487782" lon="15.168937022">
+  <name>Wasserfall des Essigbaches
+</name>
+  <cmt>Wasserfall des Essigbaches
+</cmt>
+  <desc>Wasserfall des Essigbaches
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.784784261" lon="15.224959134">
+  <name>Blutbuche (Fagus sylvatica atropurpurea)</name>
+  <cmt>Blutbuche (Fagus sylvatica atropurpurea)</cmt>
+  <desc>Blutbuche (Fagus sylvatica atropurpurea)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.040170594" lon="15.493093384">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.048931182" lon="15.394590665">
+  <name>Platane</name>
+  <cmt>Platane</cmt>
+  <desc>Platane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.073058859" lon="15.427967124">
+  <name>Platane</name>
+  <cmt>Platane</cmt>
+  <desc>Platane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.073473791" lon="15.425696234">
+  <name>Platane (Platanus x acerifolia)</name>
+  <cmt>Platane (Platanus x acerifolia)</cmt>
+  <desc>Platane (Platanus x acerifolia)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.693106472" lon="14.621116371">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.681564305" lon="15.074716692">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.824499640" lon="15.109045261">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.828945258" lon="15.123314680">
+  <name>Felsengruppe Schwagbauerfelsen</name>
+  <cmt>Felsengruppe Schwagbauerfelsen</cmt>
+  <desc>Felsengruppe Schwagbauerfelsen</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.682311927" lon="15.079522059">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.681831274" lon="15.053272729">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.641477542" lon="14.661377967">
+  <name>M$hlbach</name>
+  <cmt>M$hlbach</cmt>
+  <desc>M$hlbach</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.091317219" lon="15.473381934">
+  <name>Eibe (Taxus baccata)</name>
+  <cmt>Eibe (Taxus baccata)</cmt>
+  <desc>Eibe (Taxus baccata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.082702082" lon="15.451633790">
+  <name>Blutbuche Flagus sylvatica &apos;purpurea&apos;</name>
+  <cmt>Blutbuche Flagus sylvatica &apos;purpurea&apos;</cmt>
+  <desc>Blutbuche Flagus sylvatica &apos;purpurea&apos;</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.081398811" lon="15.453971725">
+  <name>Esche &apos;Fraxines excelsior&apos;</name>
+  <cmt>Esche &apos;Fraxines excelsior&apos;</cmt>
+  <desc>Esche &apos;Fraxines excelsior&apos;</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.044670889" lon="15.435953225">
+  <name>Blutbuche Flagus sylvatica &apos;purpurea&apos;</name>
+  <cmt>Blutbuche Flagus sylvatica &apos;purpurea&apos;</cmt>
+  <desc>Blutbuche Flagus sylvatica &apos;purpurea&apos;</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.252536504" lon="14.894932189">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.214388788" lon="14.878894560">
+  <name>Linde (Tilia sp.)
+</name>
+  <cmt>Linde (Tilia sp.)
+</cmt>
+  <desc>Linde (Tilia sp.)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.214492612" lon="14.878916270">
+  <name>Linde (Tilia sp.)
+</name>
+  <cmt>Linde (Tilia sp.)
+</cmt>
+  <desc>Linde (Tilia sp.)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.698589943" lon="16.023768091">
+  <name>Feldahorn (Acer campestre)
+</name>
+  <cmt>Feldahorn (Acer campestre)
+</cmt>
+  <desc>Feldahorn (Acer campestre)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.786674792" lon="15.956009054">
+  <name>Basaltspalte
+</name>
+  <cmt>Basaltspalte
+</cmt>
+  <desc>Basaltspalte
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.712435671" lon="15.986506784">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.398101660" lon="15.661936573">
+  <name>Stechpalme (Ilex aquifolium)
+</name>
+  <cmt>Stechpalme (Ilex aquifolium)
+</cmt>
+  <desc>Stechpalme (Ilex aquifolium)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.255119635" lon="15.671449853">
+  <name>Eibe (Taxus baccata)
+</name>
+  <cmt>Eibe (Taxus baccata)
+</cmt>
+  <desc>Eibe (Taxus baccata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.227452898" lon="15.493163207">
+  <name>Eibe (Taxus baccata)
+</name>
+  <cmt>Eibe (Taxus baccata)
+</cmt>
+  <desc>Eibe (Taxus baccata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.163388329" lon="15.635518933">
+  <name>Rotbuche (Fagus sylvatica)
+</name>
+  <cmt>Rotbuche (Fagus sylvatica)
+</cmt>
+  <desc>Rotbuche (Fagus sylvatica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.213778430" lon="14.781853245">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.286297771" lon="14.759474631">
+  <name>Zirbe (Pinus cembra)
+</name>
+  <cmt>Zirbe (Pinus cembra)
+</cmt>
+  <desc>Zirbe (Pinus cembra)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.708602312" lon="15.193331771">
+  <name>Edelkastanie (Castanea sativa)</name>
+  <cmt>Edelkastanie (Castanea sativa)</cmt>
+  <desc>Edelkastanie (Castanea sativa)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.666097199" lon="15.274783425">
+  <name>Eibe (Taxus baccata)</name>
+  <cmt>Eibe (Taxus baccata)</cmt>
+  <desc>Eibe (Taxus baccata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.660964529" lon="15.291140494">
+  <name>Wei$buche (Carpinus betulus)</name>
+  <cmt>Wei$buche (Carpinus betulus)</cmt>
+  <desc>Wei$buche (Carpinus betulus)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.787050104" lon="15.148934774">
+  <name>Eklogitfelsen</name>
+  <cmt>Eklogitfelsen</cmt>
+  <desc>Eklogitfelsen</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.105230916" lon="15.487079099">
+  <name>Mamutbaum Sequoia gigantea</name>
+  <cmt>Mamutbaum Sequoia gigantea</cmt>
+  <desc>Mamutbaum Sequoia gigantea</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.076662160" lon="15.390967590">
+  <name>Platane</name>
+  <cmt>Platane</cmt>
+  <desc>Platane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.219396797" lon="15.631871635">
+  <name>Rotbuche (Fagus sylvatica)
+</name>
+  <cmt>Rotbuche (Fagus sylvatica)
+</cmt>
+  <desc>Rotbuche (Fagus sylvatica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.825100375" lon="15.932366757">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.839719780" lon="15.946417916">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.070348004" lon="15.458706393">
+  <name>Wei$buche (Trauerbuche)</name>
+  <cmt>Wei$buche (Trauerbuche)</cmt>
+  <desc>Wei$buche (Trauerbuche)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.068573191" lon="15.457735520">
+  <name>Rotbuche</name>
+  <cmt>Rotbuche</cmt>
+  <desc>Rotbuche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.050941380" lon="15.455820559">
+  <name>Platane (Platanus orientalis L)</name>
+  <cmt>Platane (Platanus orientalis L)</cmt>
+  <desc>Platane (Platanus orientalis L)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.071277849" lon="15.408608154">
+  <name>Magnolie (Magnolia x soulanginana)</name>
+  <cmt>Magnolie (Magnolia x soulanginana)</cmt>
+  <desc>Magnolie (Magnolia x soulanginana)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.042675115" lon="15.445736377">
+  <name>Stieleiche</name>
+  <cmt>Stieleiche</cmt>
+  <desc>Stieleiche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.080507768" lon="15.461521410">
+  <name>Blutbuche</name>
+  <cmt>Blutbuche</cmt>
+  <desc>Blutbuche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.062235628" lon="15.437663443">
+  <name>Feldahorn</name>
+  <cmt>Feldahorn</cmt>
+  <desc>Feldahorn</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.090023126" lon="15.459821837">
+  <name>Blutbuche</name>
+  <cmt>Blutbuche</cmt>
+  <desc>Blutbuche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.010202553" lon="15.230187638">
+  <name>Eibe (Taxus baccata)
+</name>
+  <cmt>Eibe (Taxus baccata)
+</cmt>
+  <desc>Eibe (Taxus baccata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.969875362" lon="15.403205402">
+  <name>2 Platanen (Platanus x acerifolia)
+</name>
+  <cmt>2 Platanen (Platanus x acerifolia)
+</cmt>
+  <desc>2 Platanen (Platanus x acerifolia)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.204374903" lon="15.387122162">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.087264123" lon="15.449690741">
+  <name>Sommereiche</name>
+  <cmt>Sommereiche</cmt>
+  <desc>Sommereiche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.087019111" lon="15.450134969">
+  <name>Sommereiche</name>
+  <cmt>Sommereiche</cmt>
+  <desc>Sommereiche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.074310804" lon="15.448442041">
+  <name>M$dchenhaarbaum Ginkgo biloba</name>
+  <cmt>M$dchenhaarbaum Ginkgo biloba</cmt>
+  <desc>M$dchenhaarbaum Ginkgo biloba</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.072767026" lon="15.392345449">
+  <name>Blutbuche</name>
+  <cmt>Blutbuche</cmt>
+  <desc>Blutbuche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.140635210" lon="15.495888332">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.140824158" lon="15.495979961">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.141147168" lon="15.496014292">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.131202757" lon="15.290332381">
+  <name>Mostbirnbaum (Pyrus sp.)
+</name>
+  <cmt>Mostbirnbaum (Pyrus sp.)
+</cmt>
+  <desc>Mostbirnbaum (Pyrus sp.)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.104577881" lon="15.487676387">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.104522972" lon="15.487583893">
+  <name>Blutbuche</name>
+  <cmt>Blutbuche</cmt>
+  <desc>Blutbuche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.096264017" lon="15.468154946">
+  <name>Stieleiche</name>
+  <cmt>Stieleiche</cmt>
+  <desc>Stieleiche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.075728301" lon="15.455106573">
+  <name>Platane</name>
+  <cmt>Platane</cmt>
+  <desc>Platane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.075790084" lon="15.455327839">
+  <name>Platane</name>
+  <cmt>Platane</cmt>
+  <desc>Platane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.074903877" lon="15.449989005">
+  <name>Platane</name>
+  <cmt>Platane</cmt>
+  <desc>Platane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.075615555" lon="15.454646663">
+  <name>Platane</name>
+  <cmt>Platane</cmt>
+  <desc>Platane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.099637240" lon="15.468351743">
+  <name>Silberfichte</name>
+  <cmt>Silberfichte</cmt>
+  <desc>Silberfichte</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.099689412" lon="15.468203449">
+  <name>Dirndlbeere</name>
+  <cmt>Dirndlbeere</cmt>
+  <desc>Dirndlbeere</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.049011525" lon="15.488797971">
+  <name>Mammutbaum</name>
+  <cmt>Mammutbaum</cmt>
+  <desc>Mammutbaum</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.049462895" lon="15.488169749">
+  <name>Mammutbaum</name>
+  <cmt>Mammutbaum</cmt>
+  <desc>Mammutbaum</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.078775378" lon="15.460322426">
+  <name>Platane</name>
+  <cmt>Platane</cmt>
+  <desc>Platane</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.635017302" lon="13.743705460">
+  <name>Wasserfall des Trattenbaches</name>
+  <cmt>Wasserfall des Trattenbaches</cmt>
+  <desc>Wasserfall des Trattenbaches</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.639490363" lon="13.859819701">
+  <name>Eibe (Taxus baccata)</name>
+  <cmt>Eibe (Taxus baccata)</cmt>
+  <desc>Eibe (Taxus baccata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.132708160" lon="14.061037707">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.057618166" lon="14.486622739">
+  <name>Berg-Ulme (Ulmus glabra)</name>
+  <cmt>Berg-Ulme (Ulmus glabra)</cmt>
+  <desc>Berg-Ulme (Ulmus glabra)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.188929886" lon="13.964275916">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.052600872" lon="13.989212199">
+  <name>Buche (Rotbuche, Fagus sylvatica)</name>
+  <cmt>Buche (Rotbuche, Fagus sylvatica)</cmt>
+  <desc>Buche (Rotbuche, Fagus sylvatica)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.123762274" lon="14.264078302">
+  <name>Buche (Rotbuche, Fagus sylvatica)</name>
+  <cmt>Buche (Rotbuche, Fagus sylvatica)</cmt>
+  <desc>Buche (Rotbuche, Fagus sylvatica)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.123748907" lon="14.264534541">
+  <name>Buche (Rotbuche, Fagus sylvatica)</name>
+  <cmt>Buche (Rotbuche, Fagus sylvatica)</cmt>
+  <desc>Buche (Rotbuche, Fagus sylvatica)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.099468435" lon="14.401371967">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.190008105" lon="13.967949735">
+  <name>Bergahorn (Acer pseudoplatanus)</name>
+  <cmt>Bergahorn (Acer pseudoplatanus)</cmt>
+  <desc>Bergahorn (Acer pseudoplatanus)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.218412845" lon="15.006535181">
+  <name>Gleinbach</name>
+  <cmt>Gleinbach</cmt>
+  <desc>Gleinbach</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.785097428" lon="15.226906785">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.784859033" lon="15.225720009">
+  <name>Blutbuche (Fagus sylvatica atropurpurea)</name>
+  <cmt>Blutbuche (Fagus sylvatica atropurpurea)</cmt>
+  <desc>Blutbuche (Fagus sylvatica atropurpurea)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.784545695" lon="15.225841301">
+  <name>Libanon-Zeder (Cedrus libani)
+</name>
+  <cmt>Libanon-Zeder (Cedrus libani)
+</cmt>
+  <desc>Libanon-Zeder (Cedrus libani)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.153239837" lon="14.739607457">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.388403796" lon="14.846973576">
+  <name>Rannachklamm</name>
+  <cmt>Rannachklamm</cmt>
+  <desc>Rannachklamm</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.392137884" lon="14.846329298">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.426862323" lon="14.849550589">
+  <name>Fichte (Picea abies)</name>
+  <cmt>Fichte (Picea abies)</cmt>
+  <desc>Fichte (Picea abies)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.720060605" lon="15.266300411">
+  <name>Platanengruppe (Platanus acerifolia)</name>
+  <cmt>Platanengruppe (Platanus acerifolia)</cmt>
+  <desc>Platanengruppe (Platanus acerifolia)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.729087204" lon="15.056703851">
+  <name>Felsofen Alte H$tte</name>
+  <cmt>Felsofen Alte H$tte</cmt>
+  <desc>Felsofen Alte H$tte</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.052439596" lon="14.407445428">
+  <name>Linde</name>
+  <cmt>Linde</cmt>
+  <desc>Linde</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.283401179" lon="15.960467382">
+  <name>Edelkastanie (Castanea sativa)</name>
+  <cmt>Edelkastanie (Castanea sativa)</cmt>
+  <desc>Edelkastanie (Castanea sativa)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.783599824" lon="15.224422857">
+  <name>Blutbuche (Fagus sylvatica atropurpurea)</name>
+  <cmt>Blutbuche (Fagus sylvatica atropurpurea)</cmt>
+  <desc>Blutbuche (Fagus sylvatica atropurpurea)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.783345555" lon="15.224971255">
+  <name>Mammutbaum (Sequoiadendron giganteum)
+</name>
+  <cmt>Mammutbaum (Sequoiadendron giganteum)
+</cmt>
+  <desc>Mammutbaum (Sequoiadendron giganteum)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.783760649" lon="15.224201735">
+  <name>Mammutbaum (Sequoiadendron giganteum)</name>
+  <cmt>Mammutbaum (Sequoiadendron giganteum)</cmt>
+  <desc>Mammutbaum (Sequoiadendron giganteum)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.076714194" lon="15.437855252">
+  <name>Ahorn</name>
+  <cmt>Ahorn</cmt>
+  <desc>Ahorn</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.073635015" lon="15.426255567">
+  <name>Eiche (Quercus robur)</name>
+  <cmt>Eiche (Quercus robur)</cmt>
+  <desc>Eiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.099006192" lon="14.399611610">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.919964973" lon="13.868454359">
+  <name>Gletscherm$hle</name>
+  <cmt>Gletscherm$hle</cmt>
+  <desc>Gletscherm$hle</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.104978127" lon="14.099105166">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.182414496" lon="14.274923412">
+  <name>Zirbelkiefer (Pinus cembra)</name>
+  <cmt>Zirbelkiefer (Pinus cembra)</cmt>
+  <desc>Zirbelkiefer (Pinus cembra)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.200790096" lon="14.294202280">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.320409632" lon="14.240970997">
+  <name>Fischsee-Wasserfall</name>
+  <cmt>Fischsee-Wasserfall</cmt>
+  <desc>Fischsee-Wasserfall</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.507520216" lon="14.096948614">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.511197872" lon="14.150843465">
+  <name>Sommerlinde (Tilia platyphyllos) s$dl.
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos) s$dl.
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos) s$dl.
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.511241211" lon="14.150839569">
+  <name>Sommerlinde (Tilia platyphyllos) n$rdl.
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos) n$rdl.
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos) n$rdl.
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.523818256" lon="14.325180250">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.465984424" lon="14.127688366">
+  <name>Sommerlinde (Tilia platyphyllos) am Dorfplatz
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos) am Dorfplatz
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos) am Dorfplatz
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.464075228" lon="14.127587440">
+  <name>Sommerlinde (Tilia platyphyllos) im Schlosshof
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos) im Schlosshof
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos) im Schlosshof
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.784330092" lon="15.223816168">
+  <name>Fichte (Picea sp.)
+</name>
+  <cmt>Fichte (Picea sp.)
+</cmt>
+  <desc>Fichte (Picea sp.)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.708145547" lon="15.145276434">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.408150186" lon="15.247145445">
+  <name>Kleinbl$ttrige Linde (Tilia parviflora)
+</name>
+  <cmt>Kleinbl$ttrige Linde (Tilia parviflora)
+</cmt>
+  <desc>Kleinbl$ttrige Linde (Tilia parviflora)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.024446189" lon="15.551931676">
+  <name>Platane (Platanus occidentalis)
+</name>
+  <cmt>Platane (Platanus occidentalis)
+</cmt>
+  <desc>Platane (Platanus occidentalis)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.865411491" lon="15.498305018">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.658970602" lon="15.531492123">
+  <name>Speierling (Sorbus domestica)
+</name>
+  <cmt>Speierling (Sorbus domestica)
+</cmt>
+  <desc>Speierling (Sorbus domestica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.843815961" lon="15.657463967">
+  <name>Hainbuche (Carpinus betulus)
+</name>
+  <cmt>Hainbuche (Carpinus betulus)
+</cmt>
+  <desc>Hainbuche (Carpinus betulus)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.907224564" lon="15.602852388">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.816817791" lon="15.662429225">
+  <name>Kaisereiche (Quercus dentata)
+</name>
+  <cmt>Kaisereiche (Quercus dentata)
+</cmt>
+  <desc>Kaisereiche (Quercus dentata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.655680358" lon="15.510960809">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.758314066" lon="15.403717581">
+  <name>Stiel-bzw.Sommereiche (Quercus robur)
+</name>
+  <cmt>Stiel-bzw.Sommereiche (Quercus robur)
+</cmt>
+  <desc>Stiel-bzw.Sommereiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.688702526" lon="15.573021969">
+  <name>Platane (Platanus acerifolia)
+</name>
+  <cmt>Platane (Platanus acerifolia)
+</cmt>
+  <desc>Platane (Platanus acerifolia)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.434321482" lon="14.847910908">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.784823331" lon="15.224212107">
+  <name>Trauer-Esche (Fraxinus excelsior pendula)</name>
+  <cmt>Trauer-Esche (Fraxinus excelsior pendula)</cmt>
+  <desc>Trauer-Esche (Fraxinus excelsior pendula)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.784957781" lon="15.224146232">
+  <name>Eibe (Taxus baccata)</name>
+  <cmt>Eibe (Taxus baccata)</cmt>
+  <desc>Eibe (Taxus baccata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.784768900" lon="15.224543535">
+  <name>Morgenl$ndische Platane (Platanus orientalis)
+</name>
+  <cmt>Morgenl$ndische Platane (Platanus orientalis)
+</cmt>
+  <desc>Morgenl$ndische Platane (Platanus orientalis)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.784702634" lon="15.223860796">
+  <name>Mammutbaum (Sequoiadendron giganteum</name>
+  <cmt>Mammutbaum (Sequoiadendron giganteum</cmt>
+  <desc>Mammutbaum (Sequoiadendron giganteum</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.725421446" lon="15.100514182">
+  <name>Bergahorn (Acer pseudoplatanus)</name>
+  <cmt>Bergahorn (Acer pseudoplatanus)</cmt>
+  <desc>Bergahorn (Acer pseudoplatanus)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.904898956" lon="15.128073099">
+  <name>Felsbildung Schrattelofen
+</name>
+  <cmt>Felsbildung Schrattelofen
+</cmt>
+  <desc>Felsbildung Schrattelofen
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.683842848" lon="15.244295974">
+  <name>2 Eiben (Taxus baccata)
+</name>
+  <cmt>2 Eiben (Taxus baccata)
+</cmt>
+  <desc>2 Eiben (Taxus baccata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.940505494" lon="15.335727586">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.820226393" lon="15.554693759">
+  <name>Rotkiefer (Pinus sylvestris)
+</name>
+  <cmt>Rotkiefer (Pinus sylvestris)
+</cmt>
+  <desc>Rotkiefer (Pinus sylvestris)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.809265846" lon="15.528632073">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.072922914" lon="15.391441608">
+  <name>Weymountskiefer</name>
+  <cmt>Weymountskiefer</cmt>
+  <desc>Weymountskiefer</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.784321213" lon="15.224217983">
+  <name>Mammutbaum (Sequoiadendron giganteum)
+</name>
+  <cmt>Mammutbaum (Sequoiadendron giganteum)
+</cmt>
+  <desc>Mammutbaum (Sequoiadendron giganteum)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.681042009" lon="15.075831196">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.681213149" lon="15.076320214">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.680966123" lon="15.075892600">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.531599006" lon="13.916492580">
+  <name>Schwefelquelle &quot;Hallbachschimmel&quot;</name>
+  <cmt>Schwefelquelle &quot;Hallbachschimmel&quot;</cmt>
+  <desc>Schwefelquelle &quot;Hallbachschimmel&quot;</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.681300892" lon="15.074569287">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.681361939" lon="15.074444250">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.707633006" lon="15.145286322">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.823927188" lon="15.152572347">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.708645516" lon="15.999017528">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.721064429" lon="16.000703714">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.823777627" lon="15.152607284">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.658825795" lon="15.241587085">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.656342552" lon="15.284379473">
+  <name>Eibe (Taxus baccata)
+</name>
+  <cmt>Eibe (Taxus baccata)
+</cmt>
+  <desc>Eibe (Taxus baccata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.396947726" lon="15.195262361">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.457828135" lon="14.994024240">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.361275877" lon="15.046321854">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.547743067" lon="15.311136174">
+  <name>Moree-Linde (Tilia sp.)</name>
+  <cmt>Moree-Linde (Tilia sp.)</cmt>
+  <desc>Moree-Linde (Tilia sp.)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.442456885" lon="15.291088107">
+  <name>Buchengruppe (Fagus sp.) b. evang. Pfarrkirche
+</name>
+  <cmt>Buchengruppe (Fagus sp.) b. evang. Pfarrkirche
+</cmt>
+  <desc>Buchengruppe (Fagus sp.) b. evang. Pfarrkirche
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.486123999" lon="15.317586089">
+  <name>Esche (Fraxinus excelsior), Fellner-Esche</name>
+  <cmt>Esche (Fraxinus excelsior), Fellner-Esche</cmt>
+  <desc>Esche (Fraxinus excelsior), Fellner-Esche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.447323472" lon="15.293915607">
+  <name>Stieleiche (Quercus robur) Resch-Eiche</name>
+  <cmt>Stieleiche (Quercus robur) Resch-Eiche</cmt>
+  <desc>Stieleiche (Quercus robur) Resch-Eiche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.415497883" lon="15.206258956">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.408099546" lon="15.247191738">
+  <name>Kleinbl$ttrige Linde (Tilia parviflora)
+</name>
+  <cmt>Kleinbl$ttrige Linde (Tilia parviflora)
+</cmt>
+  <desc>Kleinbl$ttrige Linde (Tilia parviflora)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.408108325" lon="15.247236492">
+  <name>Kleinbl$ttrige Linde (Tilia parviflora)
+</name>
+  <cmt>Kleinbl$ttrige Linde (Tilia parviflora)
+</cmt>
+  <desc>Kleinbl$ttrige Linde (Tilia parviflora)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.408178349" lon="15.247232964">
+  <name>Kleinbl$ttrige Linde (Tilia parviflora)
+</name>
+  <cmt>Kleinbl$ttrige Linde (Tilia parviflora)
+</cmt>
+  <desc>Kleinbl$ttrige Linde (Tilia parviflora)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.408130640" lon="15.247298143">
+  <name>Kleinbl$ttrige Linde (Tilia parviflora)
+</name>
+  <cmt>Kleinbl$ttrige Linde (Tilia parviflora)
+</cmt>
+  <desc>Kleinbl$ttrige Linde (Tilia parviflora)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.408154694" lon="15.247396297">
+  <name>Kleinbl$ttrige Linde (Tilia parviflora)
+</name>
+  <cmt>Kleinbl$ttrige Linde (Tilia parviflora)
+</cmt>
+  <desc>Kleinbl$ttrige Linde (Tilia parviflora)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.408331644" lon="15.247943147">
+  <name>Kleinbl$ttrige Linde (Tilia parviflora)
+</name>
+  <cmt>Kleinbl$ttrige Linde (Tilia parviflora)
+</cmt>
+  <desc>Kleinbl$ttrige Linde (Tilia parviflora)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.408439669" lon="15.248020797">
+  <name>Kleinbl$ttrige Linde (Tilia parviflora)
+</name>
+  <cmt>Kleinbl$ttrige Linde (Tilia parviflora)
+</cmt>
+  <desc>Kleinbl$ttrige Linde (Tilia parviflora)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.543296802" lon="15.092750605">
+  <name>Marienklamm
+</name>
+  <cmt>Marienklamm
+</cmt>
+  <desc>Marienklamm
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.540140816" lon="14.582832740">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.540188117" lon="14.583034886">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.540257850" lon="14.582881203">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.614157580" lon="14.529707177">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.722738498" lon="14.649424990">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.227096446" lon="14.849248433">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.312938479" lon="14.700470151">
+  <name>L$rche (Larix decidua)
+</name>
+  <cmt>L$rche (Larix decidua)
+</cmt>
+  <desc>L$rche (Larix decidua)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.195054231" lon="14.852523614">
+  <name>Nu$baum (Juglans regia)
+</name>
+  <cmt>Nu$baum (Juglans regia)
+</cmt>
+  <desc>Nu$baum (Juglans regia)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.418220980" lon="14.805378635">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.434220955" lon="14.847991852">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.911171013" lon="15.334932625">
+  <name>Eiche (Quercus sp.)</name>
+  <cmt>Eiche (Quercus sp.)</cmt>
+  <desc>Eiche (Quercus sp.)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.593354724" lon="15.689033833">
+  <name>Sommerlinde (Tilia platyphyllos) Kudlich-Linde</name>
+  <cmt>Sommerlinde (Tilia platyphyllos) Kudlich-Linde</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos) Kudlich-Linde</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.601347862" lon="15.683241380">
+  <name>Rotbuche (Fagus sylvatica)
+</name>
+  <cmt>Rotbuche (Fagus sylvatica)
+</cmt>
+  <desc>Rotbuche (Fagus sylvatica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.643695058" lon="15.718591999">
+  <name>Bergahorn (Acer pseudoplatanus)
+</name>
+  <cmt>Bergahorn (Acer pseudoplatanus)
+</cmt>
+  <desc>Bergahorn (Acer pseudoplatanus)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.637157686" lon="15.562705954">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.636965135" lon="15.562801447">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.699291027" lon="15.414460427">
+  <name>Bergahorn (Acer pseudeplatanus)
+</name>
+  <cmt>Bergahorn (Acer pseudeplatanus)
+</cmt>
+  <desc>Bergahorn (Acer pseudeplatanus)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.248421481" lon="14.902979478">
+  <name>Linde (Tilia sp.)
+</name>
+  <cmt>Linde (Tilia sp.)
+</cmt>
+  <desc>Linde (Tilia sp.)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.256029768" lon="14.894284379">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.777123755" lon="15.984177840">
+  <name>Eiche (Quercus robur)</name>
+  <cmt>Eiche (Quercus robur)</cmt>
+  <desc>Eiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.187314512" lon="14.995929413">
+  <name>Bestand von wei$en Alpenrosen</name>
+  <cmt>Bestand von wei$en Alpenrosen</cmt>
+  <desc>Bestand von wei$en Alpenrosen</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.804023250" lon="15.985480680">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.804514020" lon="15.985491091">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.710712418" lon="15.770955286">
+  <name>Blutbuche (Fagus sylvatica atropurpurea)</name>
+  <cmt>Blutbuche (Fagus sylvatica atropurpurea)</cmt>
+  <desc>Blutbuche (Fagus sylvatica atropurpurea)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.765684518" lon="15.954315078">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.708395538" lon="15.772466464">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.805827987" lon="15.870231494">
+  <name>Atlantikzeder (Cedrus atlantica)</name>
+  <cmt>Atlantikzeder (Cedrus atlantica)</cmt>
+  <desc>Atlantikzeder (Cedrus atlantica)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.722130399" lon="15.733902113">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.415191698" lon="15.672242968">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.361661038" lon="15.773403508">
+  <name>Rotbuche (Fagus sylvatica)
+</name>
+  <cmt>Rotbuche (Fagus sylvatica)
+</cmt>
+  <desc>Rotbuche (Fagus sylvatica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.300733457" lon="15.616957135">
+  <name>3 Bergahorne (Acer pseudoplatanus)
+</name>
+  <cmt>3 Bergahorne (Acer pseudoplatanus)
+</cmt>
+  <desc>3 Bergahorne (Acer pseudoplatanus)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.353260204" lon="15.485995311">
+  <name>Bergahorngruppe (Acer pseudoplatanus)
+</name>
+  <cmt>Bergahorngruppe (Acer pseudoplatanus)
+</cmt>
+  <desc>Bergahorngruppe (Acer pseudoplatanus)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.250786123" lon="15.456844140">
+  <name>Wacholder (Juniperus communis)
+</name>
+  <cmt>Wacholder (Juniperus communis)
+</cmt>
+  <desc>Wacholder (Juniperus communis)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.420586008" lon="15.747312443">
+  <name>Stechpalmengruppe (Ilex aquifolium)
+</name>
+  <cmt>Stechpalmengruppe (Ilex aquifolium)
+</cmt>
+  <desc>Stechpalmengruppe (Ilex aquifolium)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.431345633" lon="15.629302005">
+  <name>Stechpalme (Ilex aquifolium)
+</name>
+  <cmt>Stechpalme (Ilex aquifolium)
+</cmt>
+  <desc>Stechpalme (Ilex aquifolium)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.452432906" lon="15.639879600">
+  <name>Stechpalmengruppe (Ilex aquifolium)
+</name>
+  <cmt>Stechpalmengruppe (Ilex aquifolium)
+</cmt>
+  <desc>Stechpalmengruppe (Ilex aquifolium)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.184999093" lon="15.117552998">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.984415905" lon="15.259894068">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.172917962" lon="15.029504917">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.082438630" lon="15.100108674">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.050791206" lon="15.143865640">
+  <name>Platane (Platanus acerifolia)
+</name>
+  <cmt>Platane (Platanus acerifolia)
+</cmt>
+  <desc>Platane (Platanus acerifolia)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.180920239" lon="15.115487689">
+  <name>Rotbuche (Fagus sylvatica)
+</name>
+  <cmt>Rotbuche (Fagus sylvatica)
+</cmt>
+  <desc>Rotbuche (Fagus sylvatica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.180851238" lon="15.115343240">
+  <name>Rotbuche (Fagus sylvatica)
+</name>
+  <cmt>Rotbuche (Fagus sylvatica)
+</cmt>
+  <desc>Rotbuche (Fagus sylvatica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.181129506" lon="15.115713989">
+  <name>Tanne (Abies alba)
+</name>
+  <cmt>Tanne (Abies alba)
+</cmt>
+  <desc>Tanne (Abies alba)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.148280968" lon="15.041030596">
+  <name>Rotbuche (Fagus sylvatica)
+</name>
+  <cmt>Rotbuche (Fagus sylvatica)
+</cmt>
+  <desc>Rotbuche (Fagus sylvatica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.111158710" lon="14.951939386">
+  <name>Bergahorn (Acer pseudoplatanus)
+</name>
+  <cmt>Bergahorn (Acer pseudoplatanus)
+</cmt>
+  <desc>Bergahorn (Acer pseudoplatanus)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.129652468" lon="14.959753476">
+  <name>L$rche (Larix decidua)
+</name>
+  <cmt>L$rche (Larix decidua)
+</cmt>
+  <desc>L$rche (Larix decidua)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.957237518" lon="15.429819408">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.985875617" lon="15.357845875">
+  <name>2 Traubeneichen (Quercus petraea)
+</name>
+  <cmt>2 Traubeneichen (Quercus petraea)
+</cmt>
+  <desc>2 Traubeneichen (Quercus petraea)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.060071295" lon="15.349719021">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.095831448" lon="15.058178042">
+  <name>Sommerlinde (Tilia platyphyllos)</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.231065366" lon="15.178148930">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.195756825" lon="15.334148906">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.195954358" lon="15.333877034">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.019679288" lon="15.333532003">
+  <name>Mostbirnbaum (Pyrus sp.)
+</name>
+  <cmt>Mostbirnbaum (Pyrus sp.)
+</cmt>
+  <desc>Mostbirnbaum (Pyrus sp.)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.054149585" lon="15.501899398">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.088532024" lon="15.334612775">
+  <name>Eibe (Taxus baccata)
+</name>
+  <cmt>Eibe (Taxus baccata)
+</cmt>
+  <desc>Eibe (Taxus baccata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.134221035" lon="14.830531778">
+  <name>Winterlinde (Tilia cordata)</name>
+  <cmt>Winterlinde (Tilia cordata)</cmt>
+  <desc>Winterlinde (Tilia cordata)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.165195129" lon="16.086493676">
+  <name>Eichen am Damm der Neudauer Teiche</name>
+  <cmt>Eichen am Damm der Neudauer Teiche</cmt>
+  <desc>Eichen am Damm der Neudauer Teiche</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.006275680" lon="15.315844612">
+  <name>Edelkastanie (Castanea sativa)
+</name>
+  <cmt>Edelkastanie (Castanea sativa)
+</cmt>
+  <desc>Edelkastanie (Castanea sativa)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.127913823" lon="15.905406189">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.121793191" lon="15.912885776">
+  <name>Traubeneiche (Quercus petraea)</name>
+  <cmt>Traubeneiche (Quercus petraea)</cmt>
+  <desc>Traubeneiche (Quercus petraea)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.122371454" lon="15.910811541">
+  <name>Stieleiche (Quercus robur)</name>
+  <cmt>Stieleiche (Quercus robur)</cmt>
+  <desc>Stieleiche (Quercus robur)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.993549531" lon="15.210647745">
+  <name>Schwarzappel</name>
+  <cmt>Schwarzappel</cmt>
+  <desc>Schwarzappel</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.143156476" lon="16.098630743">
+  <name>2 Sommerlinden (Tilia platyphyllos)</name>
+  <cmt>2 Sommerlinden (Tilia platyphyllos)</cmt>
+  <desc>2 Sommerlinden (Tilia platyphyllos)</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.417456076" lon="14.664487999">
+  <name>Gletscherm$hle Liesinger Toagsch$ssel</name>
+  <cmt>Gletscherm$hle Liesinger Toagsch$ssel</cmt>
+  <desc>Gletscherm$hle Liesinger Toagsch$ssel</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.401412437" lon="14.825992261">
+  <name>Eibe (Taxus baccata)
+</name>
+  <cmt>Eibe (Taxus baccata)
+</cmt>
+  <desc>Eibe (Taxus baccata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.401427826" lon="14.825789326">
+  <name>Eibe (Taxus baccata)
+</name>
+  <cmt>Eibe (Taxus baccata)
+</cmt>
+  <desc>Eibe (Taxus baccata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.085366768" lon="15.329760395">
+  <name>Mispel (Mespilus germanica)
+</name>
+  <cmt>Mispel (Mespilus germanica)
+</cmt>
+  <desc>Mispel (Mespilus germanica)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.015397539" lon="15.380047409">
+  <name>2 Stieleichen (Quercus robur)
+</name>
+  <cmt>2 Stieleichen (Quercus robur)
+</cmt>
+  <desc>2 Stieleichen (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.107983968" lon="15.227302109">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.132590020" lon="15.439633255">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.974433494" lon="15.336101755">
+  <name>Ro$kastanie (Aesculus hippocastanum)
+</name>
+  <cmt>Ro$kastanie (Aesculus hippocastanum)
+</cmt>
+  <desc>Ro$kastanie (Aesculus hippocastanum)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.137430723" lon="15.449533651">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.137365037" lon="15.449492479">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.151316862" lon="15.294437683">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.190015613" lon="15.498980958">
+  <name>Kirschbaum (Prunus avium)
+</name>
+  <cmt>Kirschbaum (Prunus avium)
+</cmt>
+  <desc>Kirschbaum (Prunus avium)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.681031726" lon="15.155175030">
+  <name>Hochmoor Rotmoos und Hanghochmoor Ameiskogel</name>
+  <cmt>Hochmoor Rotmoos und Hanghochmoor Ameiskogel</cmt>
+  <desc>Hochmoor Rotmoos und Hanghochmoor Ameiskogel</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.124717481" lon="15.028332852">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.980081248" lon="14.983738685">
+  <name>Amazonit-Pegmatit
+</name>
+  <cmt>Amazonit-Pegmatit
+</cmt>
+  <desc>Amazonit-Pegmatit
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.979918452" lon="14.983496582">
+  <name>Amazonit-Pegmatit
+</name>
+  <cmt>Amazonit-Pegmatit
+</cmt>
+  <desc>Amazonit-Pegmatit
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.100474528" lon="15.068936788">
+  <name>Sommerlinde (Tilia platyphyllos)
+</name>
+  <cmt>Sommerlinde (Tilia platyphyllos)
+</cmt>
+  <desc>Sommerlinde (Tilia platyphyllos)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.995809021" lon="15.215947262">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.944349605" lon="15.006346628">
+  <name>Bergulme (Ulmus glabra)
+</name>
+  <cmt>Bergulme (Ulmus glabra)
+</cmt>
+  <desc>Bergulme (Ulmus glabra)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.067706651" lon="14.879249956">
+  <name>Tanne (Abies alba)
+</name>
+  <cmt>Tanne (Abies alba)
+</cmt>
+  <desc>Tanne (Abies alba)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.988758252" lon="15.206829428">
+  <name>Mostbirnbaum (Pyrus sp.)
+</name>
+  <cmt>Mostbirnbaum (Pyrus sp.)
+</cmt>
+  <desc>Mostbirnbaum (Pyrus sp.)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.990129083" lon="15.280136288">
+  <name>Stieleiche (Quercus robur)
+</name>
+  <cmt>Stieleiche (Quercus robur)
+</cmt>
+  <desc>Stieleiche (Quercus robur)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.970756914" lon="15.203115066">
+  <name>Edelkastanie (Castanea sativa)
+</name>
+  <cmt>Edelkastanie (Castanea sativa)
+</cmt>
+  <desc>Edelkastanie (Castanea sativa)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.986377738" lon="14.989321331">
+  <name>Winterlinde (Tilia cordata)
+</name>
+  <cmt>Winterlinde (Tilia cordata)
+</cmt>
+  <desc>Winterlinde (Tilia cordata)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.960593152" lon="14.989948478">
+  <name>Bergahorn (Acer pseudoplatanus)
+</name>
+  <cmt>Bergahorn (Acer pseudoplatanus)
+</cmt>
+  <desc>Bergahorn (Acer pseudoplatanus)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="46.944421464" lon="15.058327368">
+  <name>Bergahorn (Acer pseudoplatanus)
+</name>
+  <cmt>Bergahorn (Acer pseudoplatanus)
+</cmt>
+  <desc>Bergahorn (Acer pseudoplatanus)
+</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.069641183" lon="15.498158675">
+  <name>Edelkastanie</name>
+  <cmt>Edelkastanie</cmt>
+  <desc>Edelkastanie</desc>
+<sym>Block, Blue</sym></wpt>
+<wpt lat="47.069641183" lon="15.498158675">
+  <name>Edelkastanie</name>
+  <cmt>Edelkastanie</cmt>
+  <desc>Edelkastanie</desc>
+<sym>Block, Blue</sym></wpt>
+</gpx>
